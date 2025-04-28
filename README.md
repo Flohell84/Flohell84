@@ -35,11 +35,25 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit einer Leidensc
 
 Hier sind einige meiner Lieblingsprojekte:
 
-- 🛠️ **Python Bewerbungsassistent**(https://hellmair-portfolio.de/img/Bewerbungsassistent Phyton.png): Ein Tool, das Benutzern hilft, professionelle Anfrage-E-Mails zu erstellen.
-- 🛠️ **C# Bewerbungsassistent**(https://hellmair-portfolio.de/img/Bewerbungsassistent C.png): Eine Anwendung, die strukturierte und ansprechende E-Mails in C# generiert.
-- 🛠️ **Python Taschenrechner**(https://hellmair-portfolio.de/img/Taschenrechner.png): Ein einfacher Taschenrechner mit grundlegenden Rechenfunktionen.
-- 🛠️ **HTML Lernassistent**(https://hellmair-portfolio.de/img/Lernassistent.png): Ein Programm, das Lernprozesse optimiert.
-- 🛠️ **Jump and Run Spiel**(https://hellmair-portfolio.de/img/Spiel Python.png): Ein unterhaltsames Spiel mit einfacher Mechanik.
+- 🛠️ **Python Bewerbungsassistent**  
+  ![Python Bewerbungsassistent](https://hellmair-portfolio.de/img/Bewerbungsassistent%20Phyton.png)  
+  Ein Tool, das Benutzern hilft, professionelle Anfrage-E-Mails zu erstellen.
+
+- 🛠️ **C# Bewerbungsassistent**  
+  ![C# Bewerbungsassistent](https://hellmair-portfolio.de/img/Bewerbungsassistent%20C.png)  
+  Eine Anwendung, die strukturierte und ansprechende E-Mails in C# generiert.
+
+- 🛠️ **Python Taschenrechner**  
+  ![Python Taschenrechner](https://hellmair-portfolio.de/img/Taschenrechner.png)  
+  Ein einfacher Taschenrechner mit grundlegenden Rechenfunktionen.
+
+- 🛠️ **HTML Lernassistent**  
+  ![HTML Lernassistent](https://hellmair-portfolio.de/img/Lernassistent.png)  
+  Ein Programm, das Lernprozesse optimiert.
+
+- 🛠️ **Jump and Run Spiel**  
+  ![Jump and Run Spiel](https://hellmair-portfolio.de/img/Spiel%20Python.png)  
+  Ein unterhaltsames Spiel mit einfacher Mechanik.
 
 ---
 
