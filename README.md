@@ -1,46 +1,31 @@
-# 👋 Hallo, ich bin [Dein Name]!
+# 👋 Willkommen auf meinem Portfolio
 
-![Banner](https://via.placeholder.com/1200x300?text=Willkommen+auf+meinem+Profil)
-
-Ich bin ein leidenschaftlicher Entwickler mit Interesse an **[deine Interessen, z. B. Webentwicklung, KI, Open Source]**. Ich liebe es, neue Technologien zu erforschen und innovative Lösungen zu entwickeln.
-
----
-
-## 🚀 Über mich
-
-- 🌱 Derzeit lerne ich **[Technologien, z. B. TypeScript, Docker, etc.]**.
-- 💼 Arbeite an **[deinem aktuellen Projekt oder Job]**.
-- 💬 Frag mich gerne zu **[deinen Fachgebieten, z. B. Frontend-Entwicklung, Datenanalyse]**.
-- 📫 Erreiche mich unter **[deine E-Mail-Adresse oder Social-Media-Links]**.
-- ⚡ Fun Fact: **[etwas Interessantes über dich]**.
+## Über mich
+Hallo, ich bin **Florian Hellmair**, ein leidenschaftlicher Fachinformatiker für Anwendungsentwicklung. Programmieren gehört zu meinen größten Leidenschaften, und ich genieße es, kreative und effiziente Lösungen für komplexe Probleme zu entwickeln.
 
 ---
 
-## 🛠️ Technologien & Tools
+## 🌟 Projekte
+Hier sind einige meiner Projekte:
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-
----
-
-## 📈 GitHub-Statistiken
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deinBenutzername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deinBenutzername&layout=compact&theme=radical)
+- **Python Bewerbungsassistent**: Ein Tool, das Benutzern hilft, professionelle Anfrage-E-Mails zu erstellen.
+- **C# Bewerbungsassistent**: Eine Anwendung, die strukturierte und ansprechende E-Mails in C# generiert.
+- **HTML Bewerbungsassistent**: Ein Assistent, der Vorlagen und Tipps für optisch ansprechende E-Mails bietet.
+- **Python Taschenrechner**: Ein einfacher Taschenrechner mit grundlegenden Rechenfunktionen.
+- **Python Jump and Run Spiel**: Ein unterhaltsames Spiel mit einfacher Mechanik.
+- **HTML Lernassistent**: Ein Programm, das Lernprozesse optimiert.
 
 ---
 
-## 🌐 Finde mich hier
-
-- [LinkedIn](https://www.linkedin.com/in/deinProfil)
-- [Twitter](https://twitter.com/deinProfil)
-- [Portfolio](https://deineWebsite.com)
+## 📫 Kontakt
+- **LinkedIn**: [Florian Hellmair](https://www.linkedin.com/in/florian-hellmair-737472324)
+- **E-Mail**: [Deine E-Mail-Adresse](mailto:deine-email@example.com)
 
 ---
 
-⭐️ **Vergiss nicht, meine Repositories zu durchsuchen und einen Stern zu hinterlassen!**
+## 📂 Portfolio herunterladen
+[Portfolio herunterladen](./Doc/Projekte.zip)
+
+---
+
+© 2024 Florian Hellmair. Alle Rechte vorbehalten.
