@@ -35,11 +35,11 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit einer Leidensc
 
 Hier sind einige meiner Lieblingsprojekte:
 
-- 🛠️ **Python Bewerbungsassistent**: Ein Tool, das Benutzern hilft, professionelle Anfrage-E-Mails zu erstellen.
-- 🛠️ **C# Bewerbungsassistent**: Eine Anwendung, die strukturierte und ansprechende E-Mails in C# generiert.
-- 🛠️ **Java Taschenrechner**: Ein einfacher Taschenrechner mit grundlegenden Rechenfunktionen.
-- 🛠️ **HTML Lernassistent**: Ein Programm, das Lernprozesse optimiert.
-- 🛠️ **Jump and Run Spiel**: Ein unterhaltsames Spiel mit einfacher Mechanik.
+- 🛠️ **Python Bewerbungsassistent**(https://hellmair-portfolio.de/img/Bewerbungsassistent Phyton.png): Ein Tool, das Benutzern hilft, professionelle Anfrage-E-Mails zu erstellen.
+- 🛠️ **C# Bewerbungsassistent**(https://hellmair-portfolio.de/img/Bewerbungsassistent C.png): Eine Anwendung, die strukturierte und ansprechende E-Mails in C# generiert.
+- 🛠️ **Python Taschenrechner**(https://hellmair-portfolio.de/img/Taschenrechner.png): Ein einfacher Taschenrechner mit grundlegenden Rechenfunktionen.
+- 🛠️ **HTML Lernassistent**(https://hellmair-portfolio.de/img/Lernassistent.png): Ein Programm, das Lernprozesse optimiert.
+- 🛠️ **Jump and Run Spiel**(https://hellmair-portfolio.de/img/Spiel Python.png): Ein unterhaltsames Spiel mit einfacher Mechanik.
 
 ---
 
