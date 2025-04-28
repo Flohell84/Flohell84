@@ -1,6 +1,6 @@
 # 🌟 Florian Hellmair – Fachinformatiker für Anwendungsentwicklung
 
-![Header](https://hellmair-portfolio.de/htdocs/img/Header.png)
+![Header](https://hellmair-portfolio.de/img/Header.png)
 
 Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit einer Leidenschaft für **moderne Technologien**, **sauberen Code** und **innovative Projekte**. Ich befinde mich derzeit in der Umschulung zum Fachinformatiker für Anwendungsentwicklung und liebe es, neue Herausforderungen anzunehmen.
 
