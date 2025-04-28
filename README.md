@@ -1,31 +1,84 @@
-# 👋 Willkommen auf meinem Portfolio
+# 🌟 Florian Hellmair – Fachinformatiker für Anwendungsentwicklung
 
-## Über mich
-Hallo, ich bin **Florian Hellmair**, ein leidenschaftlicher Fachinformatiker für Anwendungsentwicklung. Programmieren gehört zu meinen größten Leidenschaften, und ich genieße es, kreative und effiziente Lösungen für komplexe Probleme zu entwickeln.
+![Header](https://via.placeholder.com/1200x400?text=Willkommen+auf+meinem+GitHub-Profil)
+
+Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit einer Leidenschaft für **moderne Technologien**, **sauberen Code** und **innovative Projekte**. Ich befinde mich derzeit in der Umschulung zum Fachinformatiker für Anwendungsentwicklung und liebe es, neue Herausforderungen anzunehmen.
+
+---
+
+## 🚀 Über mich
+
+- 🧑‍💻 **Aktueller Fokus**: Python, C#, Webentwicklung (HTML, CSS, JavaScript)
+- 🌱 **Lernziele**: Backend-Entwicklung, Cloud-Technologien und KI
+- 🎯 **Stärken**: Problemlösung, Teamarbeit, kontinuierliches Lernen
+- ⚡ **Fun Fact**: Ich bin ein großer Fan von minimalistischen Designs und kreativen Lösungen.
+
+---
+
+## 🛠️ Technologien & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Code" />
+</div>
 
 ---
 
 ## 🌟 Projekte
-Hier sind einige meiner Projekte:
 
-- **Python Bewerbungsassistent**: Ein Tool, das Benutzern hilft, professionelle Anfrage-E-Mails zu erstellen.
-- **C# Bewerbungsassistent**: Eine Anwendung, die strukturierte und ansprechende E-Mails in C# generiert.
-- **HTML Bewerbungsassistent**: Ein Assistent, der Vorlagen und Tipps für optisch ansprechende E-Mails bietet.
-- **Python Taschenrechner**: Ein einfacher Taschenrechner mit grundlegenden Rechenfunktionen.
-- **Python Jump and Run Spiel**: Ein unterhaltsames Spiel mit einfacher Mechanik.
-- **HTML Lernassistent**: Ein Programm, das Lernprozesse optimiert.
 
----
+Hier sind einige meiner Lieblingsprojekte:
 
-## 📫 Kontakt
-- **LinkedIn**: [Florian Hellmair](https://www.linkedin.com/in/florian-hellmair-737472324)
-- **E-Mail**: [Deine E-Mail-Adresse](mailto:deine-email@example.com)
+- 🛠️ **Python Bewerbungsassistent**: Ein Tool, das Benutzern hilft, professionelle Anfrage-E-Mails zu erstellen.
+- 🛠️ **C# Bewerbungsassistent**: Eine Anwendung, die strukturierte und ansprechende E-Mails in C# generiert.
+- 🛠️ **Python Taschenrechner**: Ein einfacher Taschenrechner mit grundlegenden Rechenfunktionen.
+- 🛠️ **HTML Lernassistent**: Ein Programm, das Lernprozesse optimiert.
+- 🛠️ **Jump and Run Spiel**: Ein unterhaltsames Spiel mit einfacher Mechanik.
 
 ---
 
-## 📂 Portfolio herunterladen
-[Portfolio herunterladen](./Doc/Projekte.zip)
+## 📈 GitHub-Statistiken
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=florianhellmair&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florianhellmair&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
-© 2024 Florian Hellmair. Alle Rechte vorbehalten.
+## ✉️ Kontakt
+
+<div align="center">
+  <a href="https://hellmair-portfolio.de" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-00D1FF?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/florian-hellmair-737472324" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:florian.hellmair@example.com">
+    <img src="https://img.shields.io/badge/-E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
+  </a>
+</div>
+
+---
+
+## 🌐 Social Media
+
+<div align="center">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/florianhellmair" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+⭐️ **Vergiss nicht, meine Repositories zu durchsuchen und einen Stern zu hinterlassen!**
