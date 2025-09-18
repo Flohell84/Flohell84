@@ -53,7 +53,7 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 - [🌟 Florian Hellmair – Fachinformatiker für Anwendungsentwicklung](#-florian-hellmair--fachinformatiker-für-anwendungsentwicklung)
   - [Inhaltsverzeichnis](#inhaltsverzeichnis)
   - [🚀 Über mich](#-über-mich)
-  - [👔 Für Arbeitgeber](#arbeitgeber)
+  - [👔 Für Arbeitgeber](#-für-arbeitgeber)
   - [🔎 Schnellzugriff](#-schnellzugriff)
   - [🛠️ Technologien \& Tools](#️-technologien--tools)
   - [🌟 Projekte (Auswahl)](#-projekte-auswahl)
