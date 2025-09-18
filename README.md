@@ -46,21 +46,24 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
     <img src="https://github.com/Flohell84/Flohell84/actions/workflows/html-validate.yml/badge.svg?branch=main" alt="HTML Validate Status" />
   </a>
   
+  <a href="https://github.com/Flohell84/Flohell84/commits/main" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/last-commit/Flohell84/Flohell84?style=flat-square&label=Letzter%20Commit" alt="Letzter Commit" />
+  </a>
 </div>
 
 ## Inhaltsverzeichnis
 
 - [🌟 Florian Hellmair – Fachinformatiker für Anwendungsentwicklung](#-florian-hellmair--fachinformatiker-für-anwendungsentwicklung)
   - [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  - [🚀 Über mich](#-über-mich)
-  - [👔 Für Arbeitgeber](#-für-arbeitgeber)
-  - [🔎 Schnellzugriff](#-schnellzugriff)
-  - [🛠️ Technologien \& Tools](#️-technologien--tools)
-  - [🌟 Projekte (Auswahl)](#-projekte-auswahl)
+  - [🚀 Über mich](#ueber-mich)
+  - [👔 Für Arbeitgeber](#arbeitgeber)
+  - [🔎 Schnellzugriff](#schnellzugriff)
+  - [🛠️ Technologien & Tools](#tools)
+  - [🌟 Projekte (Auswahl)](#projekte)
     - [Top 3 Projekte](#top-3-projekte)
-  - [🧰 Wie ich arbeite](#-wie-ich-arbeite)
-  - [📈 GitHub-Statistiken](#-github-statistiken)
-  - [✉️ Kontakt](#️-kontakt)
+  - [🧰 Wie ich arbeite](#work)
+  - [📈 GitHub-Statistiken](#stats)
+  - [✉️ Kontakt](#kontakt)
 
 ---
 
@@ -71,6 +74,16 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 - 🌱 **Lernziele**: Backend-Entwicklung, Cloud-Technologien und KI
 - 🎯 **Stärken**: Problemlösung, Teamarbeit, kontinuierliches Lernen
 - ⚡ **Fun Fact**: Ich bin ein großer Fan von minimalistischen Designs und kreativen Lösungen.
+
+<div align="center" style="margin-top: 6px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</div>
 
 ---
 
@@ -94,6 +107,10 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
   <a href="mailto:flo.hellmair@gmx.de" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Kontakt-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
   </a>
+</div>
+
+<div align="center" style="color: #6a737d; font-size: 90%; margin-top: 6px;">
+  Hinweis: Ich antworte i. d. R. innerhalb von 24 Stunden.
 </div>
 
 ---
@@ -146,7 +163,8 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         </a>
       </div>
-      <span>Kurze, wiederverwendbare JavaScript-Snippets für DOM, Arrays, Datum/Zeit u.v.m.</span>
+  <span>Kurze, wiederverwendbare JavaScript-Snippets für DOM, Arrays, Datum/Zeit u.v.m.</span>
+  <div style="color: #6a737d; font-size: 90%; margin-top: 4px;">Nutzen: schnell kopierbar, gut dokumentiert, überall einsetzbar</div>
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
         <li>Snippets mit Beispielen und Kurzkommentaren</li>
         <li>Fokus: Verständlichkeit und Wiederverwendbarkeit</li>
@@ -164,7 +182,8 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         </a>
       </div>
-      <span>TypeScript-Dashboard für Einnahmen/Ausgaben mit klarer Visualisierung.</span>
+  <span>TypeScript-Dashboard für Einnahmen/Ausgaben mit klarer Visualisierung.</span>
+  <div style="color: #6a737d; font-size: 90%; margin-top: 4px;">Nutzen: klare Charts, modulare Struktur, leicht erweiterbar</div>
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
         <li>TypeScript + Charts (z. B. für Trends)</li>
         <li>Saubere Struktur, klare Visualisierung</li>
@@ -185,7 +204,8 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
         </a>
       </div>
-      <span>Leichtgewichtiges HTML-Template für einfache Verwaltungsaufgaben.</span>
+  <span>Leichtgewichtiges HTML-Template für einfache Verwaltungsaufgaben.</span>
+  <div style="color: #6a737d; font-size: 90%; margin-top: 4px;">Nutzen: minimaler Overhead, schnell anpassbar für kleine Vorhaben</div>
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
         <li>Einfaches, übersichtliches HTML-Template</li>
         <li>Schnell anpassbar für kleine Projekte</li>

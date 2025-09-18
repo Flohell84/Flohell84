@@ -43,6 +43,9 @@ Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#*
   <a href="https://github.com/Flohell84/Flohell84/actions/workflows/html-validate.yml" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/Flohell84/Flohell84/actions/workflows/html-validate.yml/badge.svg?branch=main" alt="HTML Validate Status" />
   </a>
+  <a href="https://github.com/Flohell84/Flohell84/commits/main" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/last-commit/Flohell84/Flohell84?style=flat-square&label=Last%20commit" alt="Last commit" />
+  </a>
 </div>
 
 ---
@@ -68,6 +71,16 @@ Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#*
 - 🎯 **Strengths**: Problem solving, teamwork, continuous learning
 - ⚡ **Fun fact**: I love minimalist designs and creative solutions.
 
+<div align="center" style="margin-top: 6px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
 ---
 
 <a id="employers"></a>
@@ -90,6 +103,10 @@ Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#*
   <a href="mailto:flo.hellmair@gmx.de" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
+
+<div align="center" style="color: #6a737d; font-size: 90%; margin-top: 6px;">
+  Note: I typically reply within 24 hours.
 </div>
 
 ---
@@ -142,7 +159,8 @@ Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#*
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         </a>
       </div>
-      <span>Short, reusable JavaScript snippets for DOM, arrays, date/time, and more.</span>
+  <span>Short, reusable JavaScript snippets for DOM, arrays, date/time, and more.</span>
+  <div style="color: #6a737d; font-size: 90%; margin-top: 4px;">Benefit: quick to copy, well documented, broadly applicable</div>
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
         <li>Examples with concise comments</li>
         <li>Focus on clarity and reuse</li>
@@ -160,7 +178,8 @@ Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#*
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         </a>
       </div>
-      <span>TypeScript-based dashboard for income/expenses with clear charts.</span>
+  <span>TypeScript-based dashboard for income/expenses with clear charts.</span>
+  <div style="color: #6a737d; font-size: 90%; margin-top: 4px;">Benefit: clear charts, modular design, easy to extend</div>
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
         <li>TypeScript + charts for trend analysis</li>
         <li>Clean modular structure</li>
@@ -181,7 +200,8 @@ Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#*
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
         </a>
       </div>
-      <span>Lightweight HTML template for simple admin tasks.</span>
+  <span>Lightweight HTML template for simple admin tasks.</span>
+  <div style="color: #6a737d; font-size: 90%; margin-top: 4px;">Benefit: minimal overhead, fast to adapt for small projects</div>
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
         <li>Simple, clean HTML structure</li>
         <li>Quick to adapt for small projects</li>
