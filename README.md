@@ -27,13 +27,16 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 
 ## Inhaltsverzeichnis
 
-- [Über mich](#ueber-mich)
-- [Schnellzugriff](#schnellzugriff)
-- [Technologien & Tools](#tools)
-- [Projekte](#projekte)
-- [Wie ich arbeite](#work)
-- [GitHub-Statistiken](#stats)
-- [Kontakt](#kontakt)
+- [🌟 Florian Hellmair – Fachinformatiker für Anwendungsentwicklung](#-florian-hellmair--fachinformatiker-für-anwendungsentwicklung)
+  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
+  - [🚀 Über mich](#-über-mich)
+  - [🔎 Schnellzugriff](#-schnellzugriff)
+  - [🛠️ Technologien \& Tools](#️-technologien--tools)
+  - [🌟 Projekte (Auswahl)](#-projekte-auswahl)
+    - [Top 3 Projekte](#top-3-projekte)
+  - [🧰 Wie ich arbeite](#-wie-ich-arbeite)
+  - [📈 GitHub-Statistiken](#-github-statistiken)
+  - [✉️ Kontakt](#️-kontakt)
 
 ---
 
