@@ -41,6 +41,21 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 
 ## 🌟 Projekte (Auswahl)
 
+### Top 3 Projekte
+
+- 🔹 [Code-Snippet-Sammlung](https://github.com/Flohell84/Code-Snippet-Sammlung)
+  – Kurze, wiederverwendbare JavaScript-Snippets für typische Aufgaben (DOM, Arrays, Datum/Zeit u.v.m.).
+  
+  [<img src="https://opengraph.githubassets.com/1/Flohell84/Code-Snippet-Sammlung" alt="Code-Snippet-Sammlung – Thumbnail" width="420" />](https://github.com/Flohell84/Code-Snippet-Sammlung)
+- 🔹 [Personal-Finance-Dashboard](https://github.com/Flohell84/Personal-Finance-Dashboard)
+  – TypeScript-basiertes Dashboard zur Übersicht über Einnahmen/Ausgaben mit Fokus auf klare Visualisierung.
+  
+  [<img src="https://opengraph.githubassets.com/1/Flohell84/Personal-Finance-Dashboard" alt="Personal-Finance-Dashboard – Thumbnail" width="420" />](https://github.com/Flohell84/Personal-Finance-Dashboard)
+- 🔹 [Verwaltung](https://github.com/Flohell84/Verwaltung)
+  – Leichtgewichtiges HTML-Frontend/Template für einfache Verwaltungsaufgaben.
+  
+  [<img src="https://opengraph.githubassets.com/1/Flohell84/Verwaltung" alt="Verwaltung – Thumbnail" width="420" />](https://github.com/Flohell84/Verwaltung)
+
 Hier sind einige meiner Lieblingsprojekte:
 
 - 🛠️ **Python Bewerbungsassistent**  

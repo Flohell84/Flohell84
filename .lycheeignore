@@ -1,6 +1,7 @@
 # Ignore dynamic shields and GitHub stats endpoints to avoid rate limits
 https://github-readme-stats.vercel.app/.*
 https://img.shields.io/.*
+https://opengraph.githubassets.com/.*
 
 # Ignore mailto links
 mailto:.*
