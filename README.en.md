@@ -122,7 +122,7 @@ Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#*
       </div>
       <span>TypeScript-based dashboard for income/expenses with clear charts.</span>
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
-        <li>TypeScript + charts for trend analysis</li>
+        <li>Charts for trend analysis</li>
         <li>Clean modular structure</li>
       </ul>
     </td>

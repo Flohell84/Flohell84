@@ -125,7 +125,7 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
       </div>
       <span>TypeScript-Dashboard für Einnahmen/Ausgaben mit klarer Visualisierung.</span>
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
-        <li>TypeScript + Charts (z. B. für Trends)</li>
+        <li>Charts für Trend-Analysen</li>
         <li>Saubere Struktur, klare Visualisierung</li>
       </ul>
     </td>
