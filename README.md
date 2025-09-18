@@ -1,11 +1,24 @@
 # 🌟 Florian Hellmair – Fachinformatiker für Anwendungsentwicklung
 
-![Header](https://hellmair-portfolio.de/img/Header.png)
+<img src="https://hellmair-portfolio.de/img/Header.png" alt="Header" width="100%" loading="lazy" />
 
 Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Python**, **C#**, **Java** und moderne **Webentwicklung**. Ich befinde mich in der Umschulung zum Fachinformatiker für Anwendungsentwicklung – und habe Spaß an sauberem Code, einfachen Lösungen und stetigem Lernen.
 
 ---
 
+## Inhaltsverzeichnis
+
+- [Über mich](#ueber-mich)
+- [Schnellzugriff](#schnellzugriff)
+- [Technologien & Tools](#tools)
+- [Projekte](#projekte)
+- [Wie ich arbeite](#work)
+- [GitHub-Statistiken](#stats)
+- [Kontakt](#kontakt)
+
+---
+
+<a id="ueber-mich"></a>
 ## 🚀 Über mich
 
 - 🧑‍💻 **Aktueller Fokus**: Python, C#, Java, Webentwicklung (HTML, CSS, JavaScript)
@@ -15,6 +28,7 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 
 ---
 
+<a id="schnellzugriff"></a>
 ## 🔎 Schnellzugriff
 
 - 🔗 Alle Repositories: https://github.com/Flohell84?tab=repositories
@@ -23,6 +37,7 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 
 ---
 
+<a id="tools"></a>
 ## 🛠️ Technologien & Tools
 
 <div align="center">
@@ -39,22 +54,56 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 
 ---
 
+<a id="projekte"></a>
 ## 🌟 Projekte (Auswahl)
 
 ### Top 3 Projekte
 
-- 🔹 [Code-Snippet-Sammlung](https://github.com/Flohell84/Code-Snippet-Sammlung)
-  – Kurze, wiederverwendbare JavaScript-Snippets für typische Aufgaben (DOM, Arrays, Datum/Zeit u.v.m.).
-  
-  [<img src="https://opengraph.githubassets.com/1/Flohell84/Code-Snippet-Sammlung" alt="Code-Snippet-Sammlung – Thumbnail" width="420" />](https://github.com/Flohell84/Code-Snippet-Sammlung)
-- 🔹 [Personal-Finance-Dashboard](https://github.com/Flohell84/Personal-Finance-Dashboard)
-  – TypeScript-basiertes Dashboard zur Übersicht über Einnahmen/Ausgaben mit Fokus auf klare Visualisierung.
-  
-  [<img src="https://opengraph.githubassets.com/1/Flohell84/Personal-Finance-Dashboard" alt="Personal-Finance-Dashboard – Thumbnail" width="420" />](https://github.com/Flohell84/Personal-Finance-Dashboard)
-- 🔹 [Verwaltung](https://github.com/Flohell84/Verwaltung)
-  – Leichtgewichtiges HTML-Frontend/Template für einfache Verwaltungsaufgaben.
-  
-  [<img src="https://opengraph.githubassets.com/1/Flohell84/Verwaltung" alt="Verwaltung – Thumbnail" width="420" />](https://github.com/Flohell84/Verwaltung)
+<div align="center">
+<table>
+  <tr>
+    <td align="center" valign="top" style="padding: 12px 16px;">
+      <a href="https://github.com/Flohell84/Code-Snippet-Sammlung">
+        <img src="https://opengraph.githubassets.com/1/Flohell84/Code-Snippet-Sammlung" alt="Code-Snippet-Sammlung – Thumbnail" width="300" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/Flohell84/Code-Snippet-Sammlung">Code-Snippet-Sammlung</a></strong>
+      <br/>
+      <span>Kurze, wiederverwendbare JavaScript-Snippets für DOM, Arrays, Datum/Zeit u.v.m.</span>
+      <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
+        <li>Snippets mit Beispielen und Kurzkommentaren</li>
+        <li>Fokus: Verständlichkeit und Wiederverwendbarkeit</li>
+      </ul>
+    </td>
+    <td align="center" valign="top" style="padding: 12px 16px;">
+      <a href="https://github.com/Flohell84/Personal-Finance-Dashboard">
+        <img src="https://opengraph.githubassets.com/1/Flohell84/Personal-Finance-Dashboard" alt="Personal-Finance-Dashboard – Thumbnail" width="300" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/Flohell84/Personal-Finance-Dashboard">Personal-Finance-Dashboard</a></strong>
+      <br/>
+      <span>TypeScript-Dashboard für Einnahmen/Ausgaben mit klarer Visualisierung.</span>
+      <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
+        <li>TypeScript + Charts (z. B. für Trends)</li>
+        <li>Saubere Struktur, klare Visualisierung</li>
+      </ul>
+    </td>
+    <td align="center" valign="top" style="padding: 12px 16px;">
+      <a href="https://github.com/Flohell84/Verwaltung">
+        <img src="https://opengraph.githubassets.com/1/Flohell84/Verwaltung" alt="Verwaltung – Thumbnail" width="300" />
+      </a>
+      <br/>
+      <strong><a href="https://github.com/Flohell84/Verwaltung">Verwaltung</a></strong>
+      <br/>
+      <span>Leichtgewichtiges HTML-Template für einfache Verwaltungsaufgaben.</span>
+      <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
+        <li>Einfaches, übersichtliches HTML-Template</li>
+        <li>Schnell anpassbar für kleine Projekte</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</div>
 
 Hier sind einige meiner Lieblingsprojekte:
 
@@ -81,6 +130,17 @@ Hier sind einige meiner Lieblingsprojekte:
 
 ---
 
+<a id="work"></a>
+## 🧰 Wie ich arbeite
+
+- Klarheit vor Komplexität: lesbarer Code und einfache Lösungen
+- Sauberes Git: aussagekräftige Commits, kleine PRs, Code-Reviews
+- Tools: VS Code, GitHub Actions, Markdownlint, Link-Checks, HTML-Validation
+- Kontinuierliche Verbesserung: kleine, regelmäßige Iterationen
+
+---
+
+<a id="stats"></a>
 ## 📈 GitHub-Statistiken
 
 <div align="center">
@@ -90,6 +150,7 @@ Hier sind einige meiner Lieblingsprojekte:
 
 ---
 
+<a id="kontakt"></a>
 ## ✉️ Kontakt
 
 <div align="center">

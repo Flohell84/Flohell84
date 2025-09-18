@@ -1,4 +1,4 @@
-name: Lint Markdown
+name: Validate HTML
 
 on:
   push:
@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  markdownlint:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -21,11 +21,14 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install markdownlint-cli2
+      - name: Install tools
         run: |
-          npm --version
-          npm install -g markdownlint-cli2@0.14.0
+          npm install -g marked@12 html-validate@8
 
-      - name: Run markdownlint-cli2
+      - name: Render README to HTML
         run: |
-          markdownlint-cli2 "**/*.md" "!**/node_modules/**"
+          marked -o README.html README.md
+
+      - name: Validate HTML
+        run: |
+          html-validate README.html
