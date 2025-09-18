@@ -27,9 +27,25 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
   <a href="mailto:flo.hellmair@gmx.de" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
   </a>
+  <a href="mailto:flo.hellmair@gmx.de?subject=Kontakt%20%7C%20Open%20to%20Work" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=leaflet&logoColor=white" alt="Open to Work" />
+  </a>
   <a href="https://github.com/Flohell84/Code-Snippet-Sammlung" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Top%20Repo-Code%20Snippets-8A2BE2?style=for-the-badge&logo=github" alt="Top Repo" />
   </a>
+</div>
+
+<div align="center" style="margin-top: 6px;">
+  <a href="https://github.com/Flohell84/Flohell84/actions/workflows/markdownlint.yml" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/Flohell84/Flohell84/actions/workflows/markdownlint.yml/badge.svg?branch=main" alt="Markdownlint Status" />
+  </a>
+  <a href="https://github.com/Flohell84/Flohell84/actions/workflows/link-check.yml" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/Flohell84/Flohell84/actions/workflows/link-check.yml/badge.svg?branch=main" alt="Link Check Status" />
+  </a>
+  <a href="https://github.com/Flohell84/Flohell84/actions/workflows/html-validate.yml" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/Flohell84/Flohell84/actions/workflows/html-validate.yml/badge.svg?branch=main" alt="HTML Validate Status" />
+  </a>
+  
 </div>
 
 ## Inhaltsverzeichnis
@@ -37,6 +53,7 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 - [🌟 Florian Hellmair – Fachinformatiker für Anwendungsentwicklung](#-florian-hellmair--fachinformatiker-für-anwendungsentwicklung)
   - [Inhaltsverzeichnis](#inhaltsverzeichnis)
   - [🚀 Über mich](#-über-mich)
+  - [👔 Für Arbeitgeber](#arbeitgeber)
   - [🔎 Schnellzugriff](#-schnellzugriff)
   - [🛠️ Technologien \& Tools](#️-technologien--tools)
   - [🌟 Projekte (Auswahl)](#-projekte-auswahl)
@@ -54,6 +71,30 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 - 🌱 **Lernziele**: Backend-Entwicklung, Cloud-Technologien und KI
 - 🎯 **Stärken**: Problemlösung, Teamarbeit, kontinuierliches Lernen
 - ⚡ **Fun Fact**: Ich bin ein großer Fan von minimalistischen Designs und kreativen Lösungen.
+
+---
+
+<a id="arbeitgeber"></a>
+## 👔 Für Arbeitgeber
+
+- _Profil: Junior Anwendungsentwickler | Fokus: Python, C#, Java, Web/TypeScript | Verfügbarkeit: Open to Work_
+
+- Klare Mehrwerte: sauberer Code, verständliche Doku, automatisierte Qualitätschecks (Markdown, Links, HTML)
+- Praxis mit GitHub Actions (CI), Pull-Request-Workflows und Readme-Optimierung
+- Sprachen/Stacks: Python, C#, Java, Web (HTML/CSS/JavaScript, TypeScript)
+- Zusammenarbeit: strukturierte Kommunikation, pragmatische Lösungen, stetiges Lernen
+
+<div align="center">
+  <a href="https://hellmair-portfolio.de" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-00D1FF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/florian-hellmair-737472324" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:flo.hellmair@gmx.de" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kontakt-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
+  </a>
+</div>
 
 ---
 
@@ -95,7 +136,7 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
   <tr>
     <td align="center" valign="top" style="padding: 12px 16px;">
       <a href="https://github.com/Flohell84/Code-Snippet-Sammlung" target="_blank" rel="noopener noreferrer">
-        <img src="https://opengraph.githubassets.com/1/Flohell84/Code-Snippet-Sammlung" alt="Code-Snippet-Sammlung – Thumbnail" width="300" />
+  <img src="https://opengraph.githubassets.com/1/Flohell84/Code-Snippet-Sammlung" alt="Code-Snippet-Sammlung – Thumbnail" width="300" loading="lazy" />
       </a>
       <br/>
   <strong><a href="https://github.com/Flohell84/Code-Snippet-Sammlung" target="_blank" rel="noopener noreferrer">Code-Snippet-Sammlung</a></strong>
@@ -113,7 +154,7 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
     </td>
     <td align="center" valign="top" style="padding: 12px 16px;">
       <a href="https://github.com/Flohell84/Personal-Finance-Dashboard" target="_blank" rel="noopener noreferrer">
-        <img src="https://opengraph.githubassets.com/1/Flohell84/Personal-Finance-Dashboard" alt="Personal-Finance-Dashboard – Thumbnail" width="300" />
+  <img src="https://opengraph.githubassets.com/1/Flohell84/Personal-Finance-Dashboard" alt="Personal-Finance-Dashboard – Thumbnail" width="300" loading="lazy" />
       </a>
       <br/>
   <strong><a href="https://github.com/Flohell84/Personal-Finance-Dashboard" target="_blank" rel="noopener noreferrer">Personal-Finance-Dashboard</a></strong>
@@ -131,7 +172,7 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
     </td>
     <td align="center" valign="top" style="padding: 12px 16px;">
       <a href="https://github.com/Flohell84/Verwaltung" target="_blank" rel="noopener noreferrer">
-        <img src="https://opengraph.githubassets.com/1/Flohell84/Verwaltung" alt="Verwaltung – Thumbnail" width="300" />
+  <img src="https://opengraph.githubassets.com/1/Flohell84/Verwaltung" alt="Verwaltung – Thumbnail" width="300" loading="lazy" />
       </a>
       <br/>
   <strong><a href="https://github.com/Flohell84/Verwaltung" target="_blank" rel="noopener noreferrer">Verwaltung</a></strong>
@@ -157,24 +198,24 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 Hier sind einige meiner Lieblingsprojekte:
 
 - 🛠️ **Python Bewerbungsassistent**  
-  <img src="https://hellmair-portfolio.de/img/Bewerbungsassistent%20Phyton.png" alt="Python Bewerbungsassistent" width="300" />  
+  <img src="https://hellmair-portfolio.de/img/Bewerbungsassistent%20Phyton.png" alt="Python Bewerbungsassistent" width="300" loading="lazy" />  
   Ein Tool, das Benutzern hilft, professionelle Anfrage-E-Mails zu erstellen.  
-  → Mehr Projekte: https://github.com/Flohell84?tab=repositories
+  → Mehr Projekte: <a href="https://github.com/Flohell84?tab=repositories" target="_blank" rel="noopener noreferrer">https://github.com/Flohell84?tab=repositories</a>
 
 - 🛠️ **C# Bewerbungsassistent**  
-  <img src="https://hellmair-portfolio.de/img/Bewerbungsassistent%20C.png" alt="C# Bewerbungsassistent" width="300" />  
+  <img src="https://hellmair-portfolio.de/img/Bewerbungsassistent%20C.png" alt="C# Bewerbungsassistent" width="300" loading="lazy" />  
   Eine Anwendung, die strukturierte und ansprechende E-Mails in C# generiert.
 
 - 🛠️ **Python Taschenrechner**  
-  <img src="https://hellmair-portfolio.de/img/Taschenrechner.png" alt="Python Taschenrechner" width="300" />  
+  <img src="https://hellmair-portfolio.de/img/Taschenrechner.png" alt="Python Taschenrechner" width="300" loading="lazy" />  
   Ein einfacher Taschenrechner mit grundlegenden Rechenfunktionen.
 
 - 🛠️ **HTML Lernassistent**  
-  <img src="https://hellmair-portfolio.de/img/Lernassistent.png" alt="HTML Lernassistent" width="300" />  
+  <img src="https://hellmair-portfolio.de/img/Lernassistent.png" alt="HTML Lernassistent" width="300" loading="lazy" />  
   Ein Programm, das Lernprozesse optimiert.
 
 - 🛠️ **Jump and Run Spiel**  
-  <img src="https://hellmair-portfolio.de/img/Spiel%20Python.png" alt="Jump and Run Spiel" width="300" />  
+  <img src="https://hellmair-portfolio.de/img/Spiel%20Python.png" alt="Jump and Run Spiel" width="300" loading="lazy" />  
   Ein unterhaltsames Spiel mit einfacher Mechanik.
 
 ---
@@ -193,8 +234,8 @@ Hier sind einige meiner Lieblingsprojekte:
 ## 📈 GitHub-Statistiken
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flohell84&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flohell84&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Flohell84&show_icons=true&theme=radical" alt="GitHub Stats" loading="lazy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flohell84&layout=compact&theme=radical" alt="Top Languages" loading="lazy" />
 </div>
 
 ---
@@ -203,10 +244,10 @@ Hier sind einige meiner Lieblingsprojekte:
 ## ✉️ Kontakt
 
 <div align="center">
-  <a href="https://hellmair-portfolio.de" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-00D1FF?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
+  <a href="https://hellmair-portfolio.de" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Portfolio-00D1FF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/florian-hellmair-737472324" target="_blank">
+  <a href="https://www.linkedin.com/in/florian-hellmair-737472324" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:flo.hellmair@gmx.de" target="_blank" rel="noopener noreferrer">
