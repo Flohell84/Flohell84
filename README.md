@@ -2,6 +2,13 @@
 
 <div align="right">
   <a href="./README.md"><strong>DE</strong></a> · <a href="./README.en.md">EN</a>
+  <br/>
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/DE-Deutsch-555?style=flat-square" alt="Deutsch Badge" />
+  </a>
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/EN-English-555?style=flat-square" alt="English Badge" />
+  </a>
 </div>
 
 <img src="https://hellmair-portfolio.de/img/Header.png" alt="Header" width="100%" loading="lazy" />
@@ -97,6 +104,7 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
         <li>Snippets mit Beispielen und Kurzkommentaren</li>
         <li>Fokus: Verständlichkeit und Wiederverwendbarkeit</li>
+        <li>Tech: JavaScript</li>
       </ul>
     </td>
     <td align="center" valign="top" style="padding: 12px 16px;">
@@ -110,6 +118,7 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
         <li>TypeScript + Charts (z. B. für Trends)</li>
         <li>Saubere Struktur, klare Visualisierung</li>
+        <li>Tech: TypeScript</li>
       </ul>
     </td>
     <td align="center" valign="top" style="padding: 12px 16px;">
@@ -123,6 +132,7 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
         <li>Einfaches, übersichtliches HTML-Template</li>
         <li>Schnell anpassbar für kleine Projekte</li>
+        <li>Tech: HTML/CSS</li>
       </ul>
     </td>
   </tr>

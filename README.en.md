@@ -2,6 +2,13 @@
 
 <div align="right">
   <a href="./README.md">DE</a> · <a href="./README.en.md"><strong>EN</strong></a>
+  <br/>
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/DE-Deutsch-555?style=flat-square" alt="German Badge" />
+  </a>
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/EN-English-555?style=flat-square" alt="English Badge" />
+  </a>
 </div>
 
 <img src="https://hellmair-portfolio.de/img/Header.png" alt="Header" width="100%" loading="lazy" />
