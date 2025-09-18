@@ -30,6 +30,9 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
   <a href="mailto:flo.hellmair@gmx.de?subject=Kontakt%20%7C%20Open%20to%20Work" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=leaflet&logoColor=white" alt="Open to Work" />
   </a>
+  <a href="mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Praktikum%20verf%C3%BCgbar-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white" alt="Praktikum verfügbar" />
+  </a>
   <a href="https://github.com/Flohell84/Code-Snippet-Sammlung" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Top%20Repo-Code%20Snippets-8A2BE2?style=for-the-badge&logo=github" alt="Top Repo" />
   </a>
@@ -53,17 +56,16 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 
 ## Inhaltsverzeichnis
 
-- [🌟 Florian Hellmair – Fachinformatiker für Anwendungsentwicklung](#-florian-hellmair--fachinformatiker-für-anwendungsentwicklung)
-  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  - [🚀 Über mich](#-über-mich)
-  - [👔 Für Arbeitgeber](#-für-arbeitgeber)
-  - [🔎 Schnellzugriff](#-schnellzugriff)
-  - [🛠️ Technologien \& Tools](#️-technologien--tools)
-  - [🌟 Projekte (Auswahl)](#-projekte-auswahl)
-    - [Top 3 Projekte](#top-3-projekte)
-  - [🧰 Wie ich arbeite](#-wie-ich-arbeite)
-  - [📈 GitHub-Statistiken](#-github-statistiken)
-  - [✉️ Kontakt](#️-kontakt)
+- [🚀 Über mich](#ueber-mich)
+- [👔 Für Arbeitgeber](#arbeitgeber)
+  - [Praktikum (IHK) – 09.10.2025 bis 07.07.2026](#praktikum)
+- [🔎 Schnellzugriff](#schnellzugriff)
+- [🛠️ Technologien & Tools](#tools)
+- [🌟 Projekte (Auswahl)](#projekte)
+  - [Top 3 Projekte](#top-3)
+- [🧰 Wie ich arbeite](#work)
+- [📈 GitHub-Statistiken](#stats)
+- [✉️ Kontakt](#kontakt)
 
 ---
 
@@ -90,12 +92,28 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 <a id="arbeitgeber"></a>
 ## 👔 Für Arbeitgeber
 
-- _Profil: Junior Anwendungsentwickler | Fokus: Python, C#, Java, Web/TypeScript | Verfügbarkeit: Open to Work_
+ - _Profil: Junior Anwendungsentwickler | Fokus: Python, C#, Java, Web/TypeScript | Verfügbarkeit: Praktikum 09.10.2025–07.07.2026, Vollzeit, Remote/Hybrid möglich_
+
+- **Verfügbarkeit:** Praktikum 09.10.2025–07.07.2026 | Vollzeit | Remote/Hybrid möglich
 
 - Klare Mehrwerte: sauberer Code, verständliche Doku, automatisierte Qualitätschecks (Markdown, Links, HTML)
 - Praxis mit GitHub Actions (CI), Pull-Request-Workflows und Readme-Optimierung
 - Sprachen/Stacks: Python, C#, Java, Web (HTML/CSS/JavaScript, TypeScript)
 - Zusammenarbeit: strukturierte Kommunikation, pragmatische Lösungen, stetiges Lernen
+
+<a id="praktikum"></a>
+### Praktikum (IHK) – 09.10.2025 bis 07.07.2026
+
+Im Rahmen meiner Umschulung zum Fachinformatiker für Anwendungsentwicklung (IHK) suche ich in diesem Zeitraum ein spannendes und praxisorientiertes Praktikum.
+
+**Schwerpunkte:**
+
+- Softwareentwicklung: Java, Python, SQL, PHP
+- Webentwicklung: HTML, CSS, JavaScript
+- Datenbanken und Anwendungsdesign
+- Projektarbeit nach agilen Methoden (Scrum)
+
+Ich freue mich über Tipps, Kontakte oder Hinweise auf passende Unternehmen. Schreiben Sie mir gern direkt oder teilen Sie diese Information weiter.
 
 <div align="center">
   <a href="https://hellmair-portfolio.de" target="_blank" rel="noopener noreferrer">
@@ -146,6 +164,7 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 <a id="projekte"></a>
 ## 🌟 Projekte (Auswahl)
 
+<a id="top-3"></a>
 ### Top 3 Projekte
 
 <div align="center">

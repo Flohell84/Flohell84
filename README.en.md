@@ -28,6 +28,9 @@ Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#*
   <a href="mailto:flo.hellmair@gmx.de?subject=Contact%20%7C%20Open%20to%20Work" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=leaflet&logoColor=white" alt="Open to Work" />
   </a>
+  <a href="mailto:flo.hellmair@gmx.de?subject=Internship%20%7C%20Oct%2009%2C%202025%20-%20Jul%2007%2C%202026" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Internship%20available-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white" alt="Internship available" />
+  </a>
   <a href="https://github.com/Flohell84/Code-Snippet-Sammlung" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Top%20Repo-Code%20Snippets-8A2BE2?style=for-the-badge&logo=github" alt="Top Repo" />
   </a>
@@ -54,9 +57,11 @@ Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#*
 
 - [About me](#about)
 - [For Employers](#employers)
+  - [Internship (IHK) – Oct 09, 2025 to Jul 07, 2026](#internship)
 - [Quick access](#quick)
 - [Technologies & Tools](#tools)
 - [Projects](#projects)
+  - [Top 3 Projects](#top-3)
 - [How I work](#work)
 - [GitHub Stats](#stats)
 - [Contact](#contact)
@@ -86,12 +91,28 @@ Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#*
 <a id="employers"></a>
 ## 👔 For Employers
 
-- _Profile: Junior Application Developer | Focus: Python, C#, Java, Web/TypeScript | Availability: Open to Work_
+ - _Profile: Junior Application Developer | Focus: Python, C#, Java, Web/TypeScript | Availability: Internship Oct 09, 2025 – Jul 07, 2026, Full-time, Remote/Hybrid possible_
+
+- **Availability:** Internship Oct 09, 2025 – Jul 07, 2026 | Full-time | Remote/Hybrid possible
 
 - Clear value: clean code, readable docs, automated quality checks (Markdown, links, HTML)
 - Hands-on with GitHub Actions (CI), pull request workflows, and README optimization
 - Stacks: Python, C#, Java, Web (HTML/CSS/JavaScript, TypeScript)
 - Collaboration: structured communication, pragmatic solutions, continuous learning
+
+<a id="internship"></a>
+### Internship (IHK) – Oct 09, 2025 to Jul 07, 2026
+
+As part of my retraining as an Application Developer (IHK), I'm looking for an engaging, hands-on internship during this period.
+
+**Focus areas:**
+
+- Software development: Java, Python, SQL, PHP
+- Web development: HTML, CSS, JavaScript
+- Databases and application design
+- Agile project work (Scrum)
+
+I'm happy about tips, contacts, or references to suitable companies. Feel free to message me directly or share this info.
 
 <div align="center">
   <a href="https://hellmair-portfolio.de" target="_blank" rel="noopener noreferrer">
@@ -142,6 +163,7 @@ Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#*
 <a id="projects"></a>
 ## 🌟 Projects (Selection)
 
+<a id="top-3"></a>
 ### Top 3 Projects
 
 <div align="center">
