@@ -1,4 +1,4 @@
-# 🌟 Florian Hellmair – Application Developer (Trainee)
+# 🌟 Florian Hellmair – Junior Application Developer (IHK)
 
 <div align="right">
   <a href="./README.md" target="_blank" rel="noopener noreferrer">DE</a> · <a href="./README.en.md" target="_blank" rel="noopener noreferrer"><strong>EN</strong></a>
@@ -15,18 +15,16 @@
 
 Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#**, **Java**, and modern **Web Development**. I'm currently training as an application developer and I enjoy clean code, simple solutions, and continuous learning.
 
+<div align="center" style="margin-top: 8px; font-weight: 600;">
+  Junior Application Developer (IHK) · Internship Oct 09, 2025 – Jul 07, 2026 · Focus: Python · C# · Java · Web/TypeScript
+</div>
+
 <div align="center">
   <a href="https://hellmair-portfolio.de" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-00D1FF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/florian-hellmair-737472324" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:flo.hellmair@gmx.de" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="mailto:flo.hellmair@gmx.de?subject=Contact%20%7C%20Open%20to%20Work" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=leaflet&logoColor=white" alt="Open to Work" />
   </a>
   <a href="mailto:flo.hellmair@gmx.de?subject=Internship%20%7C%20Oct%2009%2C%202025%20-%20Jul%2007%2C%202026" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Internship%20available-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white" alt="Internship available" />
@@ -36,6 +34,12 @@ Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#*
   </a>
   <a href="https://github.com/Flohell84/Code-Snippet-Sammlung" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Top%20Repo-Code%20Snippets-8A2BE2?style=for-the-badge&logo=github" alt="Top Repo" />
+  </a>
+  <a href="mailto:flo.hellmair@gmx.de?subject=Contact%20%7C%20Open%20to%20Work" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=leaflet&logoColor=white" alt="Open to Work" />
+  </a>
+  <a href="mailto:flo.hellmair@gmx.de" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -94,7 +98,9 @@ Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#*
 <a id="employers"></a>
 ## 👔 For Employers
 
- - _Profile: Junior Application Developer | Focus: Python, C#, Java, Web/TypeScript | Availability: Internship Oct 09, 2025 – Jul 07, 2026, Full-time, Remote/Hybrid possible_
+> Note: I'm currently looking for a hands-on internship between Oct 09, 2025 and Jul 07, 2026 (full-time, remote/hybrid possible). Reach out via [email](mailto:flo.hellmair@gmx.de?subject=Internship%20%7C%20Oct%2009%2C%202025%20-%20Jul%2007%2C%202026) or [LinkedIn](https://www.linkedin.com/in/florian-hellmair-737472324) – or feel free to share this note. 🙏
+
+- _Profile: Junior Application Developer (IHK) | Focus: Python, C#, Java, Web/TypeScript_
 
 - **Availability:** Internship Oct 09, 2025 – Jul 07, 2026 | Full-time | Remote/Hybrid possible
 
@@ -103,7 +109,7 @@ Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#*
 - Stacks: Python, C#, Java, Web (HTML/CSS/JavaScript, TypeScript)
 - Collaboration: structured communication, pragmatic solutions, continuous learning
 
-> Note: I'm currently looking for a hands-on internship between Oct 09, 2025 and Jul 07, 2026 (full-time, remote/hybrid possible). Reach out via [email](mailto:flo.hellmair@gmx.de?subject=Internship%20%7C%20Oct%2009%2C%202025%20-%20Jul%2007%2C%202026) or [LinkedIn](https://www.linkedin.com/in/florian-hellmair-737472324) — or feel free to share this note. 🙏
+- 👉 Get in touch now: <a href="mailto:flo.hellmair@gmx.de?subject=Internship%20%7C%20Oct%2009%2C%202025%20-%20Jul%2007%2C%202026" target="_blank" rel="noopener noreferrer">Send email</a> · <a href="https://www.linkedin.com/in/florian-hellmair-737472324" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 <a id="internship"></a>
 ### Internship (IHK) – Oct 09, 2025 to Jul 07, 2026
@@ -140,8 +146,6 @@ I'm happy about tips, contacts, or references to suitable companies. Feel free t
 <a id="quick"></a>
 ## 🔎 Quick access
 
-- Language: [DE](./README.md) · **EN**
-
 - 📨 Request internship now: <a href="mailto:flo.hellmair@gmx.de?subject=Internship%20%7C%20Oct%2009%2C%202025%20-%20Jul%2007%2C%202026" target="_blank" rel="noopener noreferrer">Send email</a>
 - 🔗 All repositories: <a href="https://github.com/Flohell84?tab=repositories" target="_blank" rel="noopener noreferrer">https://github.com/Flohell84?tab=repositories</a>
 - 🌐 Portfolio: <a href="https://hellmair-portfolio.de" target="_blank" rel="noopener noreferrer">https://hellmair-portfolio.de</a>
@@ -169,7 +173,7 @@ I'm happy about tips, contacts, or references to suitable companies. Feel free t
 <a id="projects"></a>
 ## 🌟 Projects (Selection)
 
-> Note: Currently within the internship window (Oct 09, 2025 – Jul 07, 2026). Contact: [Email](mailto:flo.hellmair@gmx.de?subject=Internship%20%7C%20Oct%2009%2C%202025%20-%20Jul%2007%2C%202026) · [LinkedIn](https://www.linkedin.com/in/florian-hellmair-737472324)
+> Note: Currently within the internship window (Oct 09, 2025 – Jul 07, 2026). Contact via [email](mailto:flo.hellmair@gmx.de?subject=Internship%20%7C%20Oct%2009%2C%202025%20-%20Jul%2007%2C%202026) · [LinkedIn](https://www.linkedin.com/in/florian-hellmair-737472324)
 
 <a id="top-3"></a>
 ### Top 3 Projects

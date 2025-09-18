@@ -15,6 +15,10 @@
 
 Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Python**, **C#**, **Java** und moderne **Webentwicklung**. Ich befinde mich in der Umschulung zum Fachinformatiker für Anwendungsentwicklung – und habe Spaß an sauberem Code, einfachen Lösungen und stetigem Lernen.
 
+<div align="center" style="margin-top: 8px; font-weight: 600;">
+  Junior Anwendungsentwickler (IHK) · Praktikum 09.10.2025–07.07.2026 · Fokus: Python · C# · Java · Web/TypeScript
+</div>
+
 ---
 
 <div align="center">
@@ -24,12 +28,6 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
   <a href="https://www.linkedin.com/in/florian-hellmair-737472324" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:flo.hellmair@gmx.de" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
-  </a>
-  <a href="mailto:flo.hellmair@gmx.de?subject=Kontakt%20%7C%20Open%20to%20Work" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=leaflet&logoColor=white" alt="Open to Work" />
-  </a>
   <a href="mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Praktikum%20verf%C3%BCgbar-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white" alt="Praktikum verfügbar" />
   </a>
@@ -38,6 +36,12 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
   </a>
   <a href="https://github.com/Flohell84/Code-Snippet-Sammlung" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Top%20Repo-Code%20Snippets-8A2BE2?style=for-the-badge&logo=github" alt="Top Repo" />
+  </a>
+  <a href="mailto:flo.hellmair@gmx.de?subject=Kontakt%20%7C%20Open%20to%20Work" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=leaflet&logoColor=white" alt="Open to Work" />
+  </a>
+  <a href="mailto:flo.hellmair@gmx.de" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E‑Mail" />
   </a>
 </div>
 
@@ -59,18 +63,29 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 
 ## Inhaltsverzeichnis
 
-- [🌟 Florian Hellmair – Fachinformatiker für Anwendungsentwicklung](#-florian-hellmair--fachinformatiker-für-anwendungsentwicklung)
-  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  - [🚀 Über mich](#-über-mich)
-  - [👔 Für Arbeitgeber](#-für-arbeitgeber)
-    - [Praktikum (IHK) – 09.10.2025 bis 07.07.2026](#praktikum-ihk--09102025-bis-07072026)
-  - [🔎 Schnellzugriff](#-schnellzugriff)
-  - [🛠️ Technologien \& Tools](#️-technologien--tools)
-  - [🌟 Projekte (Auswahl)](#-projekte-auswahl)
-    - [Top 3 Projekte](#top-3-projekte)
-  - [🧰 Wie ich arbeite](#-wie-ich-arbeite)
-  - [📈 GitHub-Statistiken](#-github-statistiken)
-  - [✉️ Kontakt](#️-kontakt)
+- [🚀 Über mich](#ueber-mich)
+- [👔 Für Arbeitgeber](#arbeitgeber)
+  - [Praktikum (IHK) – 09.10.2025 bis 07.07.2026](#praktikum)
+- [🔎 Schnellzugriff](#schnellzugriff)
+- [🛠️ Technologien & Tools](#tools)
+- [🌟 Projekte (Auswahl)](#projekte)
+  - [Top 3 Projekte](#top-3)
+- [🧰 Wie ich arbeite](#work)
+- [📈 GitHub-Statistiken](#stats)
+- [✉️ Kontakt](#kontakt)
+
+## Inhaltsverzeichnis
+
+- [🚀 Über mich](#ueber-mich)
+- [👔 Für Arbeitgeber](#arbeitgeber)
+  - [Praktikum (IHK) – 09.10.2025 bis 07.07.2026](#praktikum)
+- [🔎 Schnellzugriff](#schnellzugriff)
+- [🛠️ Technologien & Tools](#tools)
+- [🌟 Projekte (Auswahl)](#projekte)
+  - [Top 3 Projekte](#top-3)
+- [🧰 Wie ich arbeite](#work)
+- [📈 GitHub-Statistiken](#stats)
+- [✉️ Kontakt](#kontakt)
 
 ---
 
@@ -97,10 +112,9 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 <a id="arbeitgeber"></a>
 ## 👔 Für Arbeitgeber
 
-> Hinweis: Aktuell suche ich im Zeitraum 09.10.2025–07.07.2026 ein praxisorientiertes Praktikum (Vollzeit, remote/hybrid möglich). Kontakt gern per [E‑Mail schreiben](mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026) oder über [LinkedIn](https://www.linkedin.com/in/florian-hellmair-737472324) — oder diesen Hinweis teilen. 🙏
+> Hinweis: Aktuell suche ich im Zeitraum 09.10.2025 – 07.07.2026 ein praxisorientiertes Praktikum (Vollzeit, remote/hybrid möglich). Kontakt gerne per [E‑Mail schreiben](mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026) oder über [LinkedIn](https://www.linkedin.com/in/florian-hellmair-737472324) – oder diesen Hinweis teilen. 🙏
 
-
-- _Profil: Umschüler Anwendungsentwickler | Fokus: Python, C#, Java, Web/TypeScript | Verfügbarkeit: Praktikum 09.10.2025–07.07.2026, Vollzeit, Remote/Hybrid möglich_
+- _Profil: Junior Anwendungsentwickler (IHK) | Fokus: Python, C#, Java, Web/TypeScript_
 
 - **Verfügbarkeit:** Praktikum 09.10.2025–07.07.2026 | Vollzeit | Remote/Hybrid möglich
 
@@ -108,6 +122,8 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 - Praxis mit GitHub Actions (CI), Pull-Request-Workflows und README-Optimierung
 - Sprachen/Stacks: Python, C#, Java, Web (HTML/CSS/JavaScript, TypeScript)
 - Zusammenarbeit: strukturierte Kommunikation, pragmatische Lösungen, stetiges Lernen
+
+- 👉 Jetzt Kontakt aufnehmen: <a href="mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026" target="_blank" rel="noopener noreferrer">E‑Mail senden</a> · <a href="https://www.linkedin.com/in/florian-hellmair-737472324" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 
 <a id="praktikum"></a>
@@ -132,7 +148,7 @@ Ich freue mich über Tipps, Kontakte oder Hinweise auf passende Unternehmen. Sch
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:flo.hellmair@gmx.de" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Kontakt-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
+    <img src="https://img.shields.io/badge/Kontakt-E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E‑Mail" />
   </a>
 </div>
 
@@ -144,8 +160,6 @@ Ich freue mich über Tipps, Kontakte oder Hinweise auf passende Unternehmen. Sch
 
 <a id="schnellzugriff"></a>
 ## 🔎 Schnellzugriff
-
-- Sprache: **DE** · [EN](./README.en.md)
 
 - 📨 Jetzt Praktikum anfragen: <a href="mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026" target="_blank" rel="noopener noreferrer">E‑Mail senden</a>
 - 🔗 Alle Repositories: <a href="https://github.com/Flohell84?tab=repositories" target="_blank" rel="noopener noreferrer">https://github.com/Flohell84?tab=repositories</a>
@@ -173,7 +187,7 @@ Ich freue mich über Tipps, Kontakte oder Hinweise auf passende Unternehmen. Sch
 
 <a id="projekte"></a>
 
-> Hinweis: Derzeit im Praktikums‑Suchfenster (09.10.2025–07.07.2026). Kontakt: [E‑Mail](mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026) · [LinkedIn](https://www.linkedin.com/in/florian-hellmair-737472324)
+> Hinweis: Derzeit im Praktikums‑Suchfenster (09.10.2025 – 07.07.2026). Kontakt gerne per [E‑Mail](mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026) · [LinkedIn](https://www.linkedin.com/in/florian-hellmair-737472324)
 
 ## 🌟 Projekte (Auswahl)
 
@@ -251,12 +265,12 @@ Hier sind einige meiner Lieblingsprojekte:
 
 - 🛠️ **Python Bewerbungsassistent**  
   <img src="https://hellmair-portfolio.de/img/Bewerbungsassistent%20Phyton.png" alt="Python Bewerbungsassistent" width="300" loading="lazy" />  
-  Ein Tool, das Benutzern hilft, professionelle Anfrage-E-Mails zu erstellen.  
+  Ein Tool, das Benutzern hilft, professionelle Anfrage-E‑Mails zu erstellen.  
   → Mehr Projekte: <a href="https://github.com/Flohell84?tab=repositories" target="_blank" rel="noopener noreferrer">https://github.com/Flohell84?tab=repositories</a>
 
 - 🛠️ **C# Bewerbungsassistent**  
   <img src="https://hellmair-portfolio.de/img/Bewerbungsassistent%20C.png" alt="C# Bewerbungsassistent" width="300" loading="lazy" />  
-  Eine Anwendung, die strukturierte und ansprechende E-Mails in C# generiert.
+  Eine Anwendung, die strukturierte und ansprechende E‑Mails in C# generiert.
 
 - 🛠️ **Python Taschenrechner**  
   <img src="https://hellmair-portfolio.de/img/Taschenrechner.png" alt="Python Taschenrechner" width="300" loading="lazy" />  
@@ -303,7 +317,7 @@ Hier sind einige meiner Lieblingsprojekte:
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:flo.hellmair@gmx.de" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
+  <img src="https://img.shields.io/badge/-E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E‑Mail" />
   </a>
 </div>
 
