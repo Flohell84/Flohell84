@@ -33,6 +33,9 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
   <a href="mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Praktikum%20verf%C3%BCgbar-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white" alt="Praktikum verfügbar" />
   </a>
+  <a href="mailto:flo.hellmair@gmx.de?subject=Kontakt%20%7C%20Antwort%20innerhalb%2024h" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Antwort%20in%2024h-6aaf50?style=for-the-badge&logo=clockify&logoColor=white" alt="Antwort in 24h" />
+  </a>
   <a href="https://github.com/Flohell84/Code-Snippet-Sammlung" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Top%20Repo-Code%20Snippets-8A2BE2?style=for-the-badge&logo=github" alt="Top Repo" />
   </a>
@@ -56,18 +59,16 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 
 ## Inhaltsverzeichnis
 
-- [🌟 Florian Hellmair – Fachinformatiker für Anwendungsentwicklung](#-florian-hellmair--fachinformatiker-für-anwendungsentwicklung)
-  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  - [🚀 Über mich](#-über-mich)
-  - [👔 Für Arbeitgeber](#-für-arbeitgeber)
-    - [Praktikum (IHK) – 09.10.2025 bis 07.07.2026](#praktikum-ihk--09102025-bis-07072026)
-  - [🔎 Schnellzugriff](#-schnellzugriff)
-  - [🛠️ Technologien \& Tools](#️-technologien--tools)
-  - [🌟 Projekte (Auswahl)](#-projekte-auswahl)
-    - [Top 3 Projekte](#top-3-projekte)
-  - [🧰 Wie ich arbeite](#-wie-ich-arbeite)
-  - [📈 GitHub-Statistiken](#-github-statistiken)
-  - [✉️ Kontakt](#️-kontakt)
+- [🚀 Über mich](#ueber-mich)
+- [👔 Für Arbeitgeber](#arbeitgeber)
+  - [Praktikum (IHK) – 09.10.2025 bis 07.07.2026](#praktikum)
+- [🔎 Schnellzugriff](#schnellzugriff)
+- [🛠️ Technologien & Tools](#tools)
+- [🌟 Projekte (Auswahl)](#projekte)
+  - [Top 3 Projekte](#top-3)
+- [🧰 Wie ich arbeite](#work)
+- [📈 GitHub-Statistiken](#stats)
+- [✉️ Kontakt](#kontakt)
 
 ---
 
@@ -94,14 +95,16 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 <a id="arbeitgeber"></a>
 ## 👔 Für Arbeitgeber
 
- - _Profil: Junior Anwendungsentwickler | Fokus: Python, C#, Java, Web/TypeScript | Verfügbarkeit: Praktikum 09.10.2025–07.07.2026, Vollzeit, Remote/Hybrid möglich_
+- _Profil: Junior Anwendungsentwickler | Fokus: Python, C#, Java, Web/TypeScript | Verfügbarkeit: Praktikum 09.10.2025–07.07.2026, Vollzeit, Remote/Hybrid möglich_
 
 - **Verfügbarkeit:** Praktikum 09.10.2025–07.07.2026 | Vollzeit | Remote/Hybrid möglich
 
 - Klare Mehrwerte: sauberer Code, verständliche Doku, automatisierte Qualitätschecks (Markdown, Links, HTML)
-- Praxis mit GitHub Actions (CI), Pull-Request-Workflows und Readme-Optimierung
+- Praxis mit GitHub Actions (CI), Pull-Request-Workflows und README-Optimierung
 - Sprachen/Stacks: Python, C#, Java, Web (HTML/CSS/JavaScript, TypeScript)
 - Zusammenarbeit: strukturierte Kommunikation, pragmatische Lösungen, stetiges Lernen
+
+> Hinweis: Aktuell suche ich im Zeitraum 09.10.2025–07.07.2026 ein praxisorientiertes Praktikum (Vollzeit, remote/hybrid möglich). Kontakt gern per [E‑Mail schreiben](mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026) oder über [LinkedIn](https://www.linkedin.com/in/florian-hellmair-737472324) — oder diesen Hinweis teilen. 🙏
 
 <a id="praktikum"></a>
 ### Praktikum (IHK) – 09.10.2025 bis 07.07.2026
@@ -140,6 +143,7 @@ Ich freue mich über Tipps, Kontakte oder Hinweise auf passende Unternehmen. Sch
 
 - Sprache: **DE** · [EN](./README.en.md)
 
+- 📨 Jetzt Praktikum anfragen: <a href="mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026" target="_blank" rel="noopener noreferrer">E‑Mail senden</a>
 - 🔗 Alle Repositories: <a href="https://github.com/Flohell84?tab=repositories" target="_blank" rel="noopener noreferrer">https://github.com/Flohell84?tab=repositories</a>
 - 🌐 Portfolio: <a href="https://hellmair-portfolio.de" target="_blank" rel="noopener noreferrer">https://hellmair-portfolio.de</a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/florian-hellmair-737472324" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/florian-hellmair-737472324</a>

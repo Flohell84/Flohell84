@@ -31,6 +31,9 @@ Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#*
   <a href="mailto:flo.hellmair@gmx.de?subject=Internship%20%7C%20Oct%2009%2C%202025%20-%20Jul%2007%2C%202026" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Internship%20available-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white" alt="Internship available" />
   </a>
+  <a href="mailto:flo.hellmair@gmx.de?subject=Contact%20%7C%20Reply%20within%2024h" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Reply%20within%2024h-6aaf50?style=for-the-badge&logo=clockify&logoColor=white" alt="Reply within 24h" />
+  </a>
   <a href="https://github.com/Flohell84/Code-Snippet-Sammlung" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Top%20Repo-Code%20Snippets-8A2BE2?style=for-the-badge&logo=github" alt="Top Repo" />
   </a>
@@ -100,6 +103,8 @@ Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#*
 - Stacks: Python, C#, Java, Web (HTML/CSS/JavaScript, TypeScript)
 - Collaboration: structured communication, pragmatic solutions, continuous learning
 
+> Note: I'm currently looking for a hands-on internship between Oct 09, 2025 and Jul 07, 2026 (full-time, remote/hybrid possible). Reach out via [email](mailto:flo.hellmair@gmx.de?subject=Internship%20%7C%20Oct%2009%2C%202025%20-%20Jul%2007%2C%202026) or [LinkedIn](https://www.linkedin.com/in/florian-hellmair-737472324) — or feel free to share this note. 🙏
+
 <a id="internship"></a>
 ### Internship (IHK) – Oct 09, 2025 to Jul 07, 2026
 
@@ -137,6 +142,7 @@ I'm happy about tips, contacts, or references to suitable companies. Feel free t
 
 - Language: [DE](./README.md) · **EN**
 
+- 📨 Request internship now: <a href="mailto:flo.hellmair@gmx.de?subject=Internship%20%7C%20Oct%2009%2C%202025%20-%20Jul%2007%2C%202026" target="_blank" rel="noopener noreferrer">Send email</a>
 - 🔗 All repositories: <a href="https://github.com/Flohell84?tab=repositories" target="_blank" rel="noopener noreferrer">https://github.com/Flohell84?tab=repositories</a>
 - 🌐 Portfolio: <a href="https://hellmair-portfolio.de" target="_blank" rel="noopener noreferrer">https://hellmair-portfolio.de</a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/florian-hellmair-737472324" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/florian-hellmair-737472324</a>
