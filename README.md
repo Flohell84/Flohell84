@@ -65,7 +65,6 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 
 - [🌟 Florian Hellmair – Fachinformatiker für Anwendungsentwicklung](#-florian-hellmair--fachinformatiker-für-anwendungsentwicklung)
   - [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  - [Inhaltsverzeichnis](#inhaltsverzeichnis-1)
   - [🚀 Über mich](#-über-mich)
   - [👔 Für Arbeitgeber](#-für-arbeitgeber)
     - [Praktikum (IHK) – 09.10.2025 bis 07.07.2026](#praktikum-ihk--09102025-bis-07072026)
@@ -77,21 +76,6 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
   - [📈 GitHub-Statistiken](#-github-statistiken)
   - [✉️ Kontakt](#️-kontakt)
 
-## Inhaltsverzeichnis
-
-- [🌟 Florian Hellmair – Fachinformatiker für Anwendungsentwicklung](#-florian-hellmair--fachinformatiker-für-anwendungsentwicklung)
-  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  - [Inhaltsverzeichnis](#inhaltsverzeichnis-1)
-  - [🚀 Über mich](#-über-mich)
-  - [👔 Für Arbeitgeber](#-für-arbeitgeber)
-    - [Praktikum (IHK) – 09.10.2025 bis 07.07.2026](#praktikum-ihk--09102025-bis-07072026)
-  - [🔎 Schnellzugriff](#-schnellzugriff)
-  - [🛠️ Technologien \& Tools](#️-technologien--tools)
-  - [🌟 Projekte (Auswahl)](#-projekte-auswahl)
-    - [Top 3 Projekte](#top-3-projekte)
-  - [🧰 Wie ich arbeite](#-wie-ich-arbeite)
-  - [📈 GitHub-Statistiken](#-github-statistiken)
-  - [✉️ Kontakt](#️-kontakt)
 
 ---
 
