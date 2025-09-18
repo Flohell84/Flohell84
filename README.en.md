@@ -169,6 +169,8 @@ I'm happy about tips, contacts, or references to suitable companies. Feel free t
 <a id="projects"></a>
 ## 🌟 Projects (Selection)
 
+> Note: Currently within the internship window (Oct 09, 2025 – Jul 07, 2026). Contact: [Email](mailto:flo.hellmair@gmx.de?subject=Internship%20%7C%20Oct%2009%2C%202025%20-%20Jul%2007%2C%202026) · [LinkedIn](https://www.linkedin.com/in/florian-hellmair-737472324)
+
 <a id="top-3"></a>
 ### Top 3 Projects
 

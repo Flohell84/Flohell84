@@ -59,18 +59,16 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 
 ## Inhaltsverzeichnis
 
-- [🌟 Florian Hellmair – Fachinformatiker für Anwendungsentwicklung](#-florian-hellmair--fachinformatiker-für-anwendungsentwicklung)
-  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  - [🚀 Über mich](#-über-mich)
-  - [👔 Für Arbeitgeber](#-für-arbeitgeber)
-    - [Praktikum (IHK) – 09.10.2025 bis 07.07.2026](#praktikum-ihk--09102025-bis-07072026)
-  - [🔎 Schnellzugriff](#-schnellzugriff)
-  - [🛠️ Technologien \& Tools](#️-technologien--tools)
-  - [🌟 Projekte (Auswahl)](#-projekte-auswahl)
-    - [Top 3 Projekte](#top-3-projekte)
-  - [🧰 Wie ich arbeite](#-wie-ich-arbeite)
-  - [📈 GitHub-Statistiken](#-github-statistiken)
-  - [✉️ Kontakt](#️-kontakt)
+- [🚀 Über mich](#ueber-mich)
+- [👔 Für Arbeitgeber](#arbeitgeber)
+  - [Praktikum (IHK) – 09.10.2025 bis 07.07.2026](#praktikum)
+- [🔎 Schnellzugriff](#schnellzugriff)
+- [🛠️ Technologien & Tools](#tools)
+- [🌟 Projekte (Auswahl)](#projekte)
+  - [Top 3 Projekte](#top-3)
+- [🧰 Wie ich arbeite](#work)
+- [📈 GitHub-Statistiken](#stats)
+- [✉️ Kontakt](#kontakt)
 
 ---
 
@@ -172,6 +170,9 @@ Ich freue mich über Tipps, Kontakte oder Hinweise auf passende Unternehmen. Sch
 ---
 
 <a id="projekte"></a>
+
+> Hinweis: Derzeit im Praktikums‑Suchfenster (09.10.2025–07.07.2026). Kontakt: [E‑Mail](mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026) · [LinkedIn](https://www.linkedin.com/in/florian-hellmair-737472324)
+
 ## 🌟 Projekte (Auswahl)
 
 <a id="top-3"></a>
