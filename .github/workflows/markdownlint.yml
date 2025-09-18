@@ -1,0 +1,29 @@
+name: Lint Markdown
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  markdownlint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install markdownlint-cli2
+        run: |
+          npm --version
+          npm install -g markdownlint-cli2@0.14.0
+
+      - name: Run markdownlint-cli2
+        run: |
+          markdownlint-cli2 "**/*.md" "!**/node_modules/**"

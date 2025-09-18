@@ -1,3 +1,14 @@
+name: (Archived) Welcome Tutorial
+
+on:
+  workflow_dispatch:
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Archived workflow – no action."
+
 name: Step 0, Welcome
 
 # This step triggers after the learner creates a new repository from the template.

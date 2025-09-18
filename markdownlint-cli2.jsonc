@@ -1,0 +1,18 @@
+{
+  // Use markdownlint-cli2 config
+  "$schema": "https://raw.githubusercontent.com/DavidAnson/markdownlint-cli2/main/schema/markdownlint-cli2-config-schema.json",
+  "config": {
+    // Allow long lines for badges/URLs and tables
+    "MD013": false,
+    // Disable duplicate heading rule (profile READMEs often reuse headings)
+    "MD024": false,
+    // Allow inline HTML (used for badges and images)
+    "MD033": false,
+    // Heading increment flexibility
+    "MD001": false
+  },
+  "globs": [
+    "**/*.md",
+    "!**/node_modules/**"
+  ]
+}

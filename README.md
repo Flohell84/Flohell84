@@ -2,7 +2,7 @@
 
 ![Header](https://hellmair-portfolio.de/img/Header.png)
 
-Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit einer Leidenschaft für **moderne Technologien**, **sauberen Code** und **innovative Projekte**. Ich befinde mich derzeit in der Umschulung zum Fachinformatiker für Anwendungsentwicklung und liebe es, neue Herausforderungen anzunehmen.
+Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Python**, **C#**, **Java** und moderne **Webentwicklung**. Ich befinde mich in der Umschulung zum Fachinformatiker für Anwendungsentwicklung – und habe Spaß an sauberem Code, einfachen Lösungen und stetigem Lernen.
 
 ---
 
@@ -12,6 +12,14 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit einer Leidensc
 - 🌱 **Lernziele**: Backend-Entwicklung, Cloud-Technologien und KI
 - 🎯 **Stärken**: Problemlösung, Teamarbeit, kontinuierliches Lernen
 - ⚡ **Fun Fact**: Ich bin ein großer Fan von minimalistischen Designs und kreativen Lösungen.
+
+---
+
+## 🔎 Schnellzugriff
+
+- 🔗 Alle Repositories: https://github.com/Flohell84?tab=repositories
+- 🌐 Portfolio: https://hellmair-portfolio.de
+- 💼 LinkedIn: https://www.linkedin.com/in/florian-hellmair-737472324
 
 ---
 
@@ -31,13 +39,14 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit einer Leidensc
 
 ---
 
-## 🌟 Projekte
+## 🌟 Projekte (Auswahl)
 
 Hier sind einige meiner Lieblingsprojekte:
 
 - 🛠️ **Python Bewerbungsassistent**  
   <img src="https://hellmair-portfolio.de/img/Bewerbungsassistent%20Phyton.png" alt="Python Bewerbungsassistent" width="300" />  
-  Ein Tool, das Benutzern hilft, professionelle Anfrage-E-Mails zu erstellen.
+  Ein Tool, das Benutzern hilft, professionelle Anfrage-E-Mails zu erstellen.  
+  → Mehr Projekte: https://github.com/Flohell84?tab=repositories
 
 - 🛠️ **C# Bewerbungsassistent**  
   <img src="https://hellmair-portfolio.de/img/Bewerbungsassistent%20C.png" alt="C# Bewerbungsassistent" width="300" />  
@@ -75,7 +84,7 @@ Hier sind einige meiner Lieblingsprojekte:
   <a href="https://www.linkedin.com/in/florian-hellmair-737472324" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:florian.hellmair@example.com">
+  <a href="mailto:flo.hellmair@gmx.de">
     <img src="https://img.shields.io/badge/-E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
   </a>
 </div>
