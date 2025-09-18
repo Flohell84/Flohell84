@@ -28,7 +28,8 @@ jobs:
       - name: Render README to HTML
         run: |
           marked -o README.html README.md
+          marked -o README.en.html README.en.md
 
       - name: Validate HTML
         run: |
-          html-validate README.html
+          html-validate README.html README.en.html

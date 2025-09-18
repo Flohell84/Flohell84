@@ -1,14 +1,12 @@
-# 🌟 Florian Hellmair – Fachinformatiker für Anwendungsentwicklung
+# 🌟 Florian Hellmair – Application Developer (Trainee)
 
 <div align="right">
-  <a href="./README.md"><strong>DE</strong></a> · <a href="./README.en.md">EN</a>
+  <a href="./README.md">DE</a> · <a href="./README.en.md"><strong>EN</strong></a>
 </div>
 
 <img src="https://hellmair-portfolio.de/img/Header.png" alt="Header" width="100%" loading="lazy" />
 
-Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Python**, **C#**, **Java** und moderne **Webentwicklung**. Ich befinde mich in der Umschulung zum Fachinformatiker für Anwendungsentwicklung – und habe Spaß an sauberem Code, einfachen Lösungen und stetigem Lernen.
-
----
+Hi! I'm **Florian Hellmair**, a creative developer focusing on **Python**, **C#**, **Java**, and modern **Web Development**. I'm currently training as an application developer and I enjoy clean code, simple solutions, and continuous learning.
 
 <div align="center">
   <a href="https://hellmair-portfolio.de">
@@ -18,48 +16,50 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:flo.hellmair@gmx.de">
-    <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Flohell84/Code-Snippet-Sammlung">
     <img src="https://img.shields.io/badge/Top%20Repo-Code%20Snippets-8A2BE2?style=for-the-badge&logo=github" alt="Top Repo" />
   </a>
 </div>
 
-## Inhaltsverzeichnis
+---
 
-- [Über mich](#ueber-mich)
-- [Schnellzugriff](#schnellzugriff)
-- [Technologien & Tools](#tools)
-- [Projekte](#projekte)
-- [Wie ich arbeite](#work)
-- [GitHub-Statistiken](#stats)
-- [Kontakt](#kontakt)
+## Table of Contents
+
+- [About me](#about)
+- [Quick access](#quick)
+- [Technologies & Tools](#tools)
+- [Projects](#projects)
+- [How I work](#work)
+- [GitHub Stats](#stats)
+- [Contact](#contact)
 
 ---
 
-<a id="ueber-mich"></a>
-## 🚀 Über mich
+<a id="about"></a>
+## 🚀 About me
 
-- 🧑‍💻 **Aktueller Fokus**: Python, C#, Java, Webentwicklung (HTML, CSS, JavaScript)
-- 🌱 **Lernziele**: Backend-Entwicklung, Cloud-Technologien und KI
-- 🎯 **Stärken**: Problemlösung, Teamarbeit, kontinuierliches Lernen
-- ⚡ **Fun Fact**: Ich bin ein großer Fan von minimalistischen Designs und kreativen Lösungen.
+- 🧑‍💻 **Current focus**: Python, C#, Java, Web (HTML, CSS, JavaScript)
+- 🌱 **Learning goals**: Backend development, Cloud technologies, and AI
+- 🎯 **Strengths**: Problem solving, teamwork, continuous learning
+- ⚡ **Fun fact**: I love minimalist designs and creative solutions.
 
 ---
 
-<a id="schnellzugriff"></a>
-## 🔎 Schnellzugriff
+<a id="quick"></a>
+## 🔎 Quick access
 
-- Sprache: **DE** · [EN](./README.en.md)
+- Language: [DE](./README.md) · **EN**
 
-- 🔗 Alle Repositories: https://github.com/Flohell84?tab=repositories
+- 🔗 All repositories: https://github.com/Flohell84?tab=repositories
 - 🌐 Portfolio: https://hellmair-portfolio.de
 - 💼 LinkedIn: https://www.linkedin.com/in/florian-hellmair-737472324
 
 ---
 
 <a id="tools"></a>
-## 🛠️ Technologien & Tools
+## 🛠️ Technologies & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
@@ -75,10 +75,10 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 
 ---
 
-<a id="projekte"></a>
-## 🌟 Projekte (Auswahl)
+<a id="projects"></a>
+## 🌟 Projects (Selection)
 
-### Top 3 Projekte
+### Top 3 Projects
 
 <div align="center">
 <table>
@@ -88,12 +88,13 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
         <img src="https://opengraph.githubassets.com/1/Flohell84/Code-Snippet-Sammlung" alt="Code-Snippet-Sammlung – Thumbnail" width="300" />
       </a>
       <br/>
-      <strong><a href="https://github.com/Flohell84/Code-Snippet-Sammlung">Code-Snippet-Sammlung</a></strong>
+      <strong><a href="https://github.com/Flohell84/Code-Snippet-Sammlung">Code Snippet Collection</a></strong>
       <br/>
-      <span>Kurze, wiederverwendbare JavaScript-Snippets für DOM, Arrays, Datum/Zeit u.v.m.</span>
+      <span>Short, reusable JavaScript snippets for DOM, arrays, date/time, and more.</span>
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
-        <li>Snippets mit Beispielen und Kurzkommentaren</li>
-        <li>Fokus: Verständlichkeit und Wiederverwendbarkeit</li>
+        <li>Examples with concise comments</li>
+        <li>Focus on clarity and reuse</li>
+        <li>Tech: JavaScript</li>
       </ul>
     </td>
     <td align="center" valign="top" style="padding: 12px 16px;">
@@ -101,12 +102,13 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
         <img src="https://opengraph.githubassets.com/1/Flohell84/Personal-Finance-Dashboard" alt="Personal-Finance-Dashboard – Thumbnail" width="300" />
       </a>
       <br/>
-      <strong><a href="https://github.com/Flohell84/Personal-Finance-Dashboard">Personal-Finance-Dashboard</a></strong>
+      <strong><a href="https://github.com/Flohell84/Personal-Finance-Dashboard">Personal Finance Dashboard</a></strong>
       <br/>
-      <span>TypeScript-Dashboard für Einnahmen/Ausgaben mit klarer Visualisierung.</span>
+      <span>TypeScript-based dashboard for income/expenses with clear charts.</span>
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
-        <li>TypeScript + Charts (z. B. für Trends)</li>
-        <li>Saubere Struktur, klare Visualisierung</li>
+        <li>TypeScript + charts for trend analysis</li>
+        <li>Clean modular structure</li>
+        <li>Tech: TypeScript</li>
       </ul>
     </td>
     <td align="center" valign="top" style="padding: 12px 16px;">
@@ -114,55 +116,56 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
         <img src="https://opengraph.githubassets.com/1/Flohell84/Verwaltung" alt="Verwaltung – Thumbnail" width="300" />
       </a>
       <br/>
-      <strong><a href="https://github.com/Flohell84/Verwaltung">Verwaltung</a></strong>
+      <strong><a href="https://github.com/Flohell84/Verwaltung">Administration</a></strong>
       <br/>
-      <span>Leichtgewichtiges HTML-Template für einfache Verwaltungsaufgaben.</span>
+      <span>Lightweight HTML template for simple admin tasks.</span>
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
-        <li>Einfaches, übersichtliches HTML-Template</li>
-        <li>Schnell anpassbar für kleine Projekte</li>
+        <li>Simple, clean HTML structure</li>
+        <li>Quick to adapt for small projects</li>
+        <li>Tech: HTML/CSS</li>
       </ul>
     </td>
   </tr>
 </table>
 </div>
 
-Hier sind einige meiner Lieblingsprojekte:
+Other favorite projects:
 
-- 🛠️ **Python Bewerbungsassistent**  
-  <img src="https://hellmair-portfolio.de/img/Bewerbungsassistent%20Phyton.png" alt="Python Bewerbungsassistent" width="300" />  
-  Ein Tool, das Benutzern hilft, professionelle Anfrage-E-Mails zu erstellen.  
-  → Mehr Projekte: https://github.com/Flohell84?tab=repositories
+- 🛠️ **Python Application Assistant**  
+  <img src="https://hellmair-portfolio.de/img/Bewerbungsassistent%20Phyton.png" alt="Python Application Assistant" width="300" />  
+  A tool that helps users write professional inquiry emails.  
+  → More projects: https://github.com/Flohell84?tab=repositories
 
-- 🛠️ **C# Bewerbungsassistent**  
-  <img src="https://hellmair-portfolio.de/img/Bewerbungsassistent%20C.png" alt="C# Bewerbungsassistent" width="300" />  
-  Eine Anwendung, die strukturierte und ansprechende E-Mails in C# generiert.
+- 🛠️ **C# Application Assistant**  
+  <img src="https://hellmair-portfolio.de/img/Bewerbungsassistent%20C.png" alt="C# Application Assistant" width="300" />  
+  An app that generates structured and appealing emails in C#.
 
-- 🛠️ **Python Taschenrechner**  
-  <img src="https://hellmair-portfolio.de/img/Taschenrechner.png" alt="Python Taschenrechner" width="300" />  
-  Ein einfacher Taschenrechner mit grundlegenden Rechenfunktionen.
+- 🛠️ **Python Calculator**  
+  <img src="https://hellmair-portfolio.de/img/Taschenrechner.png" alt="Python Calculator" width="300" />  
+  A simple calculator with basic operations.
 
-- 🛠️ **HTML Lernassistent**  
-  <img src="https://hellmair-portfolio.de/img/Lernassistent.png" alt="HTML Lernassistent" width="300" />  
-  Ein Programm, das Lernprozesse optimiert.
+- 🛠️ **HTML Learning Assistant**  
+  <img src="https://hellmair-portfolio.de/img/Lernassistent.png" alt="HTML Learning Assistant" width="300" />  
+  A program that optimizes learning processes.
 
-- 🛠️ **Jump and Run Spiel**  
-  <img src="https://hellmair-portfolio.de/img/Spiel%20Python.png" alt="Jump and Run Spiel" width="300" />  
-  Ein unterhaltsames Spiel mit einfacher Mechanik.
+- 🛠️ **Jump and Run Game**  
+  <img src="https://hellmair-portfolio.de/img/Spiel%20Python.png" alt="Jump and Run Game" width="300" />  
+  A fun game with simple mechanics.
 
 ---
 
 <a id="work"></a>
-## 🧰 Wie ich arbeite
+## 🧰 How I work
 
-- Klarheit vor Komplexität: lesbarer Code und einfache Lösungen
-- Sauberes Git: aussagekräftige Commits, kleine PRs, Code-Reviews
-- Tools: VS Code, GitHub Actions, Markdownlint, Link-Checks, HTML-Validation
-- Kontinuierliche Verbesserung: kleine, regelmäßige Iterationen
+- Clarity over complexity: readable code and simple solutions
+- Clean Git: meaningful commits, small PRs, code reviews
+- Tools: VS Code, GitHub Actions, Markdownlint, link checks, HTML validation
+- Continuous improvement: small, frequent iterations
 
 ---
 
 <a id="stats"></a>
-## 📈 GitHub-Statistiken
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Flohell84&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -171,8 +174,8 @@ Hier sind einige meiner Lieblingsprojekte:
 
 ---
 
-<a id="kontakt"></a>
-## ✉️ Kontakt
+<a id="contact"></a>
+## ✉️ Contact
 
 <div align="center">
   <a href="https://hellmair-portfolio.de" target="_blank">
@@ -182,10 +185,10 @@ Hier sind einige meiner Lieblingsprojekte:
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:flo.hellmair@gmx.de">
-    <img src="https://img.shields.io/badge/-E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 ---
 
-⭐️ **Vergiss nicht, meine Repositories zu durchsuchen und einen Stern zu hinterlassen!**
+⭐️ **Feel free to explore my repositories and leave a star!**
