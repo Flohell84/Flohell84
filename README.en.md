@@ -215,7 +215,7 @@ I'm happy about tips, contacts, or references to suitable companies. Feel free t
   <span>TypeScript-based dashboard for income/expenses with clear charts.</span>
   <div style="color: #6a737d; font-size: 90%; margin-top: 4px;">Benefit: clear charts, modular design, easy to extend</div>
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
-        <li>TypeScript + charts for trend analysis</li>
+        <li>Charts for trend analysis</li>
         <li>Clean modular structure</li>
       </ul>
     </td>

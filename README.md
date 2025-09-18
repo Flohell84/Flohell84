@@ -221,7 +221,7 @@ Ich freue mich über Tipps, Kontakte oder Hinweise auf passende Unternehmen. Sch
   <span>TypeScript-Dashboard für Einnahmen/Ausgaben mit klarer Visualisierung.</span>
   <div style="color: #6a737d; font-size: 90%; margin-top: 4px;">Nutzen: klare Charts, modulare Struktur, leicht erweiterbar</div>
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
-        <li>TypeScript + Charts (z. B. für Trends)</li>
+        <li>Charts für Trend-Analysen</li>
         <li>Saubere Struktur, klare Visualisierung</li>
       </ul>
     </td>
