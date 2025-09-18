@@ -97,7 +97,10 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 <a id="arbeitgeber"></a>
 ## 👔 Für Arbeitgeber
 
-- _Profil: Junior Anwendungsentwickler | Fokus: Python, C#, Java, Web/TypeScript | Verfügbarkeit: Praktikum 09.10.2025–07.07.2026, Vollzeit, Remote/Hybrid möglich_
+> Hinweis: Aktuell suche ich im Zeitraum 09.10.2025–07.07.2026 ein praxisorientiertes Praktikum (Vollzeit, remote/hybrid möglich). Kontakt gern per [E‑Mail schreiben](mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026) oder über [LinkedIn](https://www.linkedin.com/in/florian-hellmair-737472324) — oder diesen Hinweis teilen. 🙏
+
+
+- _Profil: Umschüler Anwendungsentwickler | Fokus: Python, C#, Java, Web/TypeScript | Verfügbarkeit: Praktikum 09.10.2025–07.07.2026, Vollzeit, Remote/Hybrid möglich_
 
 - **Verfügbarkeit:** Praktikum 09.10.2025–07.07.2026 | Vollzeit | Remote/Hybrid möglich
 
@@ -106,7 +109,6 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 - Sprachen/Stacks: Python, C#, Java, Web (HTML/CSS/JavaScript, TypeScript)
 - Zusammenarbeit: strukturierte Kommunikation, pragmatische Lösungen, stetiges Lernen
 
-> Hinweis: Aktuell suche ich im Zeitraum 09.10.2025–07.07.2026 ein praxisorientiertes Praktikum (Vollzeit, remote/hybrid möglich). Kontakt gern per [E‑Mail schreiben](mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026) oder über [LinkedIn](https://www.linkedin.com/in/florian-hellmair-737472324) — oder diesen Hinweis teilen. 🙏
 
 <a id="praktikum"></a>
 ### Praktikum (IHK) – 09.10.2025 bis 07.07.2026
