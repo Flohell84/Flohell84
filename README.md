@@ -1,12 +1,12 @@
 # 🌟 Florian Hellmair – Fachinformatiker für Anwendungsentwicklung
 
 <div align="right">
-  <a href="./README.md"><strong>DE</strong></a> · <a href="./README.en.md">EN</a>
+  <a href="./README.md" target="_blank" rel="noopener noreferrer"><strong>DE</strong></a> · <a href="./README.en.md" target="_blank" rel="noopener noreferrer">EN</a>
   <br/>
-  <a href="./README.md">
+  <a href="./README.md" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/DE-Deutsch-555?style=flat-square" alt="Deutsch Badge" />
   </a>
-  <a href="./README.en.md">
+  <a href="./README.en.md" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/EN-English-555?style=flat-square" alt="English Badge" />
   </a>
 </div>
@@ -18,16 +18,16 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 ---
 
 <div align="center">
-  <a href="https://hellmair-portfolio.de">
+  <a href="https://hellmair-portfolio.de" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-00D1FF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/florian-hellmair-737472324">
+  <a href="https://www.linkedin.com/in/florian-hellmair-737472324" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:flo.hellmair@gmx.de">
+  <a href="mailto:flo.hellmair@gmx.de" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
   </a>
-  <a href="https://github.com/Flohell84/Code-Snippet-Sammlung">
+  <a href="https://github.com/Flohell84/Code-Snippet-Sammlung" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Top%20Repo-Code%20Snippets-8A2BE2?style=for-the-badge&logo=github" alt="Top Repo" />
   </a>
 </div>
@@ -62,9 +62,9 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 
 - Sprache: **DE** · [EN](./README.en.md)
 
-- 🔗 Alle Repositories: https://github.com/Flohell84?tab=repositories
-- 🌐 Portfolio: https://hellmair-portfolio.de
-- 💼 LinkedIn: https://www.linkedin.com/in/florian-hellmair-737472324
+- 🔗 Alle Repositories: <a href="https://github.com/Flohell84?tab=repositories" target="_blank" rel="noopener noreferrer">https://github.com/Flohell84?tab=repositories</a>
+- 🌐 Portfolio: <a href="https://hellmair-portfolio.de" target="_blank" rel="noopener noreferrer">https://hellmair-portfolio.de</a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/florian-hellmair-737472324" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/florian-hellmair-737472324</a>
 
 ---
 
@@ -94,45 +94,60 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 <table>
   <tr>
     <td align="center" valign="top" style="padding: 12px 16px;">
-      <a href="https://github.com/Flohell84/Code-Snippet-Sammlung">
+      <a href="https://github.com/Flohell84/Code-Snippet-Sammlung" target="_blank" rel="noopener noreferrer">
         <img src="https://opengraph.githubassets.com/1/Flohell84/Code-Snippet-Sammlung" alt="Code-Snippet-Sammlung – Thumbnail" width="300" />
       </a>
       <br/>
-      <strong><a href="https://github.com/Flohell84/Code-Snippet-Sammlung">Code-Snippet-Sammlung</a></strong>
+  <strong><a href="https://github.com/Flohell84/Code-Snippet-Sammlung" target="_blank" rel="noopener noreferrer">Code-Snippet-Sammlung</a></strong>
       <br/>
+      <div style="margin-top: 6px;">
+        <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        </a>
+      </div>
       <span>Kurze, wiederverwendbare JavaScript-Snippets für DOM, Arrays, Datum/Zeit u.v.m.</span>
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
         <li>Snippets mit Beispielen und Kurzkommentaren</li>
         <li>Fokus: Verständlichkeit und Wiederverwendbarkeit</li>
-        <li>Tech: JavaScript</li>
       </ul>
     </td>
     <td align="center" valign="top" style="padding: 12px 16px;">
-      <a href="https://github.com/Flohell84/Personal-Finance-Dashboard">
+      <a href="https://github.com/Flohell84/Personal-Finance-Dashboard" target="_blank" rel="noopener noreferrer">
         <img src="https://opengraph.githubassets.com/1/Flohell84/Personal-Finance-Dashboard" alt="Personal-Finance-Dashboard – Thumbnail" width="300" />
       </a>
       <br/>
-      <strong><a href="https://github.com/Flohell84/Personal-Finance-Dashboard">Personal-Finance-Dashboard</a></strong>
+  <strong><a href="https://github.com/Flohell84/Personal-Finance-Dashboard" target="_blank" rel="noopener noreferrer">Personal-Finance-Dashboard</a></strong>
       <br/>
+      <div style="margin-top: 6px;">
+        <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        </a>
+      </div>
       <span>TypeScript-Dashboard für Einnahmen/Ausgaben mit klarer Visualisierung.</span>
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
         <li>TypeScript + Charts (z. B. für Trends)</li>
         <li>Saubere Struktur, klare Visualisierung</li>
-        <li>Tech: TypeScript</li>
       </ul>
     </td>
     <td align="center" valign="top" style="padding: 12px 16px;">
-      <a href="https://github.com/Flohell84/Verwaltung">
+      <a href="https://github.com/Flohell84/Verwaltung" target="_blank" rel="noopener noreferrer">
         <img src="https://opengraph.githubassets.com/1/Flohell84/Verwaltung" alt="Verwaltung – Thumbnail" width="300" />
       </a>
       <br/>
-      <strong><a href="https://github.com/Flohell84/Verwaltung">Verwaltung</a></strong>
+  <strong><a href="https://github.com/Flohell84/Verwaltung" target="_blank" rel="noopener noreferrer">Verwaltung</a></strong>
       <br/>
+      <div style="margin-top: 6px;">
+        <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        </a>
+        <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        </a>
+      </div>
       <span>Leichtgewichtiges HTML-Template für einfache Verwaltungsaufgaben.</span>
       <ul style="text-align: left; margin: 8px 0 0 0; padding-left: 18px;">
         <li>Einfaches, übersichtliches HTML-Template</li>
         <li>Schnell anpassbar für kleine Projekte</li>
-        <li>Tech: HTML/CSS</li>
       </ul>
     </td>
   </tr>
@@ -194,7 +209,7 @@ Hier sind einige meiner Lieblingsprojekte:
   <a href="https://www.linkedin.com/in/florian-hellmair-737472324" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:flo.hellmair@gmx.de">
+  <a href="mailto:flo.hellmair@gmx.de" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
   </a>
 </div>
