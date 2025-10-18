@@ -15,9 +15,7 @@
 
 Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Python**, **C#**, **Java** und moderne **Webentwicklung**. Ich befinde mich in der Umschulung zum Fachinformatiker für Anwendungsentwicklung – und habe Spaß an sauberem Code, einfachen Lösungen und stetigem Lernen.
 
-<div align="center" style="margin-top: 8px; font-weight: 600;">
-  Junior Anwendungsentwickler (IHK) · Praktikum 09.10.2025–07.07.2026 · Fokus: Python · C# · Java · Web/TypeScript
-</div>
+
 
 ---
 
@@ -102,11 +100,9 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 <a id="arbeitgeber"></a>
 ## 👔 Für Arbeitgeber
 
-> Hinweis: Aktuell suche ich im Zeitraum 09.10.2025 – 07.07.2026 ein praxisorientiertes Praktikum (Vollzeit, remote/hybrid möglich). Kontakt gerne per [E‑Mail schreiben](mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026) oder über [LinkedIn](https://www.linkedin.com/in/florian-hellmair-737472324) – oder diesen Hinweis teilen. 🙏
 
 - _Profil: Junior Anwendungsentwickler (IHK) | Fokus: Python, C#, Java, Web/TypeScript_
 
-- **Verfügbarkeit:** Praktikum 09.10.2025–07.07.2026 | Vollzeit | Remote/Hybrid möglich
 
 - Klare Mehrwerte: sauberer Code, verständliche Doku, automatisierte Qualitätschecks (Markdown, Links, HTML)
 - Praxis mit GitHub Actions (CI), Pull-Request-Workflows und README-Optimierung
@@ -116,19 +112,6 @@ Hallo! Ich bin **Florian Hellmair**, ein kreativer Entwickler mit Fokus auf **Py
 - 👉 Jetzt Kontakt aufnehmen: <a href="mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026" target="_blank" rel="noopener noreferrer">E‑Mail senden</a> · <a href="https://www.linkedin.com/in/florian-hellmair-737472324" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 
-<a id="praktikum"></a>
-### Praktikum (IHK) – 09.10.2025 bis 07.07.2026
-
-Im Rahmen meiner Umschulung zum Fachinformatiker für Anwendungsentwicklung (IHK) suche ich in diesem Zeitraum ein spannendes und praxisorientiertes Praktikum.
-
-**Schwerpunkte:**
-
-- Softwareentwicklung: Java, Python, SQL, PHP
-- Webentwicklung: HTML, CSS, JavaScript
-- Datenbanken und Anwendungsdesign
-- Projektarbeit nach agilen Methoden (Scrum)
-
-Ich freue mich über Tipps, Kontakte oder Hinweise auf passende Unternehmen. Schreiben Sie mir gern direkt oder teilen Sie diese Information weiter.
 
 <div align="center">
   <a href="https://hellmair-portfolio.de" target="_blank" rel="noopener noreferrer">
@@ -177,7 +160,6 @@ Ich freue mich über Tipps, Kontakte oder Hinweise auf passende Unternehmen. Sch
 
 <a id="projekte"></a>
 
-> Hinweis: Derzeit im Praktikums‑Suchfenster (09.10.2025 – 07.07.2026). Kontakt gerne per [E‑Mail](mailto:flo.hellmair@gmx.de?subject=Praktikum%20%7C%2009.10.2025%20-%2007.07.2026) · [LinkedIn](https://www.linkedin.com/in/florian-hellmair-737472324)
 
 ## 🌟 Projekte (Auswahl)
 
