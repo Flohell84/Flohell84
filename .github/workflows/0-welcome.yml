@@ -1,8 +1,0 @@
-name: Archived - Step 0 Welcome
-on:
-  workflow_dispatch:
-jobs:
-  noop:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "Archived workflow – no action."
